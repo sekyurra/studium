@@ -126,6 +126,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [
+        {
+          name: "og:image",
+          content: "https://thestudium.netlify.app/img/logo.png",
+        },
+      ],
     }),
 };
 
