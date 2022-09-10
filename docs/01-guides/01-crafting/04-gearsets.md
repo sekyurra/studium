@@ -4,6 +4,16 @@ sidebar_position: 4
 
 # Gear Sets
 
+The following collection of gear sets aren't intended to represent the best possible gear at a given level. Instead, these are the gear sets that are used for the collectable crafting rotations provided later in this guide.
+
+These gear sets are meant to take advantage of alternative currencies that you most likely have mountains of already, such as Grand Company Seals. Importantly, I've tried to keep the gil cost as low as possible.
+
+:::tip
+As you turn in collectables, you'll be "paid" in experience and White Crafters' Scrips. Save these, as these will be used to buy equipment upgrades as you go!
+
+You will almost certainly earn more scrips than you can spend; consider spending these on equipment for the other crafting jobs you plan to level, so that by the time you need it on those other jobs, you already have it.
+:::
+
 ## Level 50
 
 | Craftsmanship | Control | CP  |
@@ -276,7 +286,7 @@ To reach the stats listed for this set, you must fully overmeld every item in th
 
 This process is **ASTRONOMICALLY FUCKING EXPENSIVE**!
 
-Be prepared to devote many hours and incredible amounts of resources to crafting collectables in order to get enough scrips to afford the amount of materia you're likely to need. Buying materia from the market board is, of course, an alternative, but be prepared to shell out millions upon millions of gil by the time you're finished.
+Be prepared to devote many hours and incredible amounts of resources to crafting collectables in order to get enough scrips to afford the amount of materia you're likely to need. Buying materia from the market board is, of course, an alternative, but be prepared to shell out **millions upon millions of gil** (and a frighteningly large share of your sanity) by the time you're finished.
 
 If you've decided to go this route after all, I salute you, and may the odds be ever in your favor.
 :::

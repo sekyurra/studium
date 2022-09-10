@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "The Studium",
   tagline: "Knowledge Freely Given",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://thestudium.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

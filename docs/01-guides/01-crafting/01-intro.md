@@ -1,17 +1,38 @@
 ---
 sidebar_position: 1
-hide_table_of_contents: true
 ---
 
 # Introduction
 
+This guide is intended to help Final Fantasy XIV players level their crafting jobs in a way that reduces the amount of gil that you need to spend to as small a quantity as possible.
+
 I put a lot of effort into leveling every crafting and gathering job in the game to their maximum, and then went ahead and melded my crafting and gathering sets to their absolute maximum because I'm a masochist. I hope to save people a lot of time and gil by documenting what I learned along the way.
 
-If you have any questions, comments, concerns, or feedback, feel free to contact me either in-game (Shion Tsuji on Diabolos) or on Discord (AStarAfar#0001). You're also more than welcome to submit a pull request with changes!
+I hope you find this guide helpful!
 
-Most of all, I hope you find this guide helpful!
+## Why did I write this?
 
-## How to Read This
+My initial motivation for this was when a fellow Free Company member was asking to have crafted a seat of high quality crafting gear... for a level 20 crafting job. Being a pentamelded omnicrafter and omnigatherer, I was immediately perplexed by the request. I therefore asked why this was needed. As it turns out, they were following a crafter levelling guide that was requiring some rather outlandish gear in order to follow.
+
+I looked a little closer at the guide, and I realized that the guide was published by a group that also **sold gil for real money**. I noticed that all throughout the guide, they'd sprinkled ads for their gil-selling service. The intent seemed fairly obvious. You'd try to follow this guide, and in doing so, you'd completely wipe yourself out of gil. In a fit of desperation, you'd fork over your money for more gil so that you can keep going.
+
+:::danger
+I don't think I have to say this, but real-money trading (RMT) is in gross violation of the game's Terms of Service. DO NOT DO THIS. You WILL receive a permanent ban if you're caught.
+:::
+
+I told them to close that guide and never follow it again.
+
+> "Here, come with me, let's get you a basic set of vendor-bought level 20 crafting gear, and I'll show you to the Firmament."
+
+While I was getting them settled in and on their way, I decided to write my own guide and maybe save someone else from getting swindled.
+
+## Contact the Author
+
+If you have any questions, comments, concerns, or feedback, feel free to contact me either in-game (Shion Tsuji on Diabolos) or on Discord (AStarAfar#0001).
+
+You're also more than welcome to submit a pull request on GitHub with changes! The link to the source is at the top right of the site, and most pages have an edit link at the bottom which takes you straight to the source file.
+
+## Conventions
 
 I do my best to adhere to certain conventions when writing guides, in particular the following.
 
