@@ -2,6 +2,14 @@
 sidebar_position: 1
 ---
 
+:::caution
+This guide has not yet been fully transitioned over from its old format.
+
+Most notably, crafting rotations are missing.
+
+To view the old version, navigate to [the guide on GitHub Pages](https://sekyurra.github.io/ffxiv/guides/crafting).
+:::
+
 # Introduction
 
 This guide is intended to help Final Fantasy XIV players level their crafting jobs in a way that reduces the amount of gil that you need to spend to as small a quantity as possible.
