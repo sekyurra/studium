@@ -322,3 +322,5 @@ If you've decided to go this route after all, I salute you, and may the odds be 
 |   Integral Bracelet of Crafting    |                  Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Cunning Materia VII (CP +7)<br />Craftsman's Cunning Materia V (CP +6)                  |
 |     Integral Ring of Crafting      | Craftsman's Command Materia X (Control +18)<br />Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Competence Materia IX (Craftsmanship +18)<br />Craftsman's Competence Materia IX (Craftsmanship +18)<br />Craftsman's Cunning Materia VII (CP +7) |
 |     Integral Ring of Crafting      | Craftsman's Command Materia X (Control +18)<br />Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Competence Materia IX (Craftsmanship +18)<br />Craftsman's Competence Materia IX (Craftsmanship +18)<br />Craftsman's Cunning Materia VII (CP +7) |
+
+![Emotional damage.](@site/static/img/ouch.png)
