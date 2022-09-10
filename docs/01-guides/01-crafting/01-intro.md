@@ -44,12 +44,6 @@ I told them to close that guide and never follow it again.
 
 While I was getting them settled in and on their way, I decided to write my own guide and maybe save someone else from getting swindled.
 
-## Contact the Author
-
-If you have any questions, comments, concerns, or feedback, feel free to contact me either in-game (Shion Tsuji on Diabolos) or on Discord (AStarAfar#0001).
-
-You're also more than welcome to submit a pull request on GitHub with changes! The link to the source is at the top right of the site, and most pages have an edit link at the bottom which takes you straight to the source file.
-
 ## Conventions
 
 I do my best to adhere to certain conventions when writing guides, in particular the following.
@@ -76,3 +70,9 @@ There is also a copy button for each macro block that will place the macro body 
 
 I've limited macros to 14 lines, so that there's a free line in case you want to add a completion message/sound (/echo Finished! <se.##>) or if you need to add a Final Appraisal action.
 ```
+
+## Contact the Author
+
+If you have any questions, comments, concerns, or feedback, feel free to contact me either in-game (Shion Tsuji on Diabolos) or on Discord (AStarAfar#0001).
+
+You're also more than welcome to submit a pull request on GitHub with changes! The link to the source is at the top right of the site, and most pages have an edit link at the bottom which takes you straight to the source file.
