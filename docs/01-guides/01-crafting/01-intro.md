@@ -2,6 +2,14 @@
 sidebar_position: 1
 ---
 
+# Introduction
+
+This guide is intended to help Final Fantasy XIV players level their crafting jobs in a way that reduces the amount of gil that you need to spend to as small a quantity as possible.
+
+I put a lot of effort into leveling every crafting and gathering job in the game to their maximum, and then went ahead and melded my crafting and gathering sets to their absolute maximum because I'm a masochist. I hope to save people a lot of time and gil by documenting what I learned along the way.
+
+I hope you find this guide helpful!
+
 :::caution
 This guide has not yet been fully transitioned over from its old format.
 
@@ -10,13 +18,15 @@ Most notably, crafting rotations are missing.
 To view the old version, navigate to [the guide on GitHub Pages](https://sekyurra.github.io/ffxiv/guides/crafting).
 :::
 
-# Introduction
+:::danger
+The intent of this guide is to minimize how much gil you spend while levelling. The only way to be successful is if you have your gathering jobs levelled already and are willing to spend the time gathering materials instead of buying them.
 
-This guide is intended to help Final Fantasy XIV players level their crafting jobs in a way that reduces the amount of gil that you need to spend to as small a quantity as possible.
+If you don't have your gatherers levelled already, I STRONGLY recommend doing so before continuing with this guide.
+:::
 
-I put a lot of effort into leveling every crafting and gathering job in the game to their maximum, and then went ahead and melded my crafting and gathering sets to their absolute maximum because I'm a masochist. I hope to save people a lot of time and gil by documenting what I learned along the way.
-
-I hope you find this guide helpful!
+:::info
+A gatherer leveling guide is in the works!
+:::
 
 ## Why did I write this?
 
