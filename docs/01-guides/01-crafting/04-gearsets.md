@@ -25,18 +25,14 @@ sidebar_position: 4
 | Right Ring |   Electrum Ring of Crafting    |     47     |         3840 gil          |
 | Left Ring  |   Electrum Ring of Crafting    |     47     |         3840 gil          |
 
-:::tip
-If you don't have any White Crafters' Scrips, pick up the Mythril secondary tool (ilvl 43) instead. You can buy it from any normal tradecraft tool vendor in the major cities for 4394 gil.
-
-The macros for level 50 and 52 collectables have been written to reach maximum collectability in both cases without breaking if you use the higher one.
-:::
-
 :::info
 The Red Coral/Electrum accessories can be purchased from Seghuie in Ishgard, located in The Pillars, X: 7.4, Y: 10.3.
 :::
 
-:::caution
-Crafting level 56 collectables with this gear can get a bit rough. If you augment with food, you can maximize collectability at that level, if the cost of the food is worth it to you. I didn't provide a rotation for this.
+:::tip
+If you don't have any White Crafters' Scrips, pick up the Mythril secondary tool (ilvl 43) instead. You can buy it from any normal tradecraft tool vendor in the major cities for 4394 gil.
+
+The macros for level 50 and 52 collectables have been written to reach maximum collectability in both cases without breaking if you use the higher one.
 :::
 
 ## Level 53
@@ -45,20 +41,20 @@ Crafting level 56 collectables with this gear can get a bit rough. If you augmen
 | :-----------: | :-----: | :-: |
 |      421      |   398   | 294 |
 
-|    Slot    |              Name              | Item Level |          Source           |
-| :--------: | :----------------------------: | :--------: | :-----------------------: |
-| Main Hand  |     Artisan's Primary Tool     |     70     | 7500 Grand Company Seals  |
-|  Off Hand  |    Mythrite Secondary Tool     |     90     | 60 White Crafters' Scrips |
-|    Legs    |       Artisan's Chausses       |     70     | 5000 Grand Company Seals  |
-|   Hands    |     Artisan's Fingerstalls     |     70     | 5000 Grand Company Seals  |
-|    Body    |         Artisan's Gown         |     70     | 6500 Grand Company Seals  |
-|    Feet    |       Artisan's Patterns       |     70     | 5000 Grand Company Seals  |
-|    Head    |      Artisan's Spectacles      |     70     | 5000 Grand Company Seals  |
-|    Ears    |       Red Coral Earrings       |     45     |         4224 gil          |
-|    Neck    |        Electrum Choker         |     49     |         4815 gil          |
-|   Wrists   | Electrum Wristlets of Crafting |     46     |         5618 gil          |
-| Right Ring |   Electrum Ring of Crafting    |     47     |         3840 gil          |
-| Left Ring  |   Electrum Ring of Crafting    |     47     |         3840 gil          |
+|    Slot    |              Name              | Item Level |          Source          |
+| :--------: | :----------------------------: | :--------: | :----------------------: |
+| Main Hand  |     Artisan's Primary Tool     |     70     | 7500 Grand Company Seals |
+|  Off Hand  |    Mythrite Secondary Tool     |     90     |     Job Quest Reward     |
+|    Legs    |       Artisan's Chausses       |     70     | 5000 Grand Company Seals |
+|   Hands    |     Artisan's Fingerstalls     |     70     | 5000 Grand Company Seals |
+|    Body    |         Artisan's Gown         |     70     | 6500 Grand Company Seals |
+|    Feet    |       Artisan's Patterns       |     70     | 5000 Grand Company Seals |
+|    Head    |      Artisan's Spectacles      |     70     | 5000 Grand Company Seals |
+|    Ears    |       Red Coral Earrings       |     45     |         4224 gil         |
+|    Neck    |        Electrum Choker         |     49     |         4815 gil         |
+|   Wrists   | Electrum Wristlets of Crafting |     46     |         5618 gil         |
+| Right Ring |   Electrum Ring of Crafting    |     47     |         3840 gil         |
+| Left Ring  |   Electrum Ring of Crafting    |     47     |         3840 gil         |
 
 Your level 53 job quest rewards you with an item level 90 secondary tool.
 
@@ -72,20 +68,20 @@ The crafting rotations for level 54, 56, and 58 assume that you have this.
 | :-----------: | :-----: | :-: |
 |      448      |   409   | 294 |
 
-|    Slot    |              Name              | Item Level |          Source           |
-| :--------: | :----------------------------: | :--------: | :-----------------------: |
-| Main Hand  |     Titanium Primary Tool      |    100     | 7500 Grand Company Seals  |
-|  Off Hand  |    Mythrite Secondary Tool     |     90     | 60 White Crafters' Scrips |
-|    Legs    |       Artisan's Chausses       |     70     | 5000 Grand Company Seals  |
-|   Hands    |     Artisan's Fingerstalls     |     70     | 5000 Grand Company Seals  |
-|    Body    |         Artisan's Gown         |     70     | 6500 Grand Company Seals  |
-|    Feet    |       Artisan's Patterns       |     70     | 5000 Grand Company Seals  |
-|    Head    |      Artisan's Spectacles      |     70     | 5000 Grand Company Seals  |
-|    Ears    |       Red Coral Earrings       |     45     |         4224 gil          |
-|    Neck    |        Electrum Choker         |     49     |         4815 gil          |
-|   Wrists   | Electrum Wristlets of Crafting |     46     |         5618 gil          |
-| Right Ring |   Electrum Ring of Crafting    |     47     |         3840 gil          |
-| Left Ring  |   Electrum Ring of Crafting    |     47     |         3840 gil          |
+|    Slot    |              Name              | Item Level |          Source          |
+| :--------: | :----------------------------: | :--------: | :----------------------: |
+| Main Hand  |     Titanium Primary Tool      |    100     |     Job Quest Reward     |
+|  Off Hand  |    Mythrite Secondary Tool     |     90     |     Job Quest Reward     |
+|    Legs    |       Artisan's Chausses       |     70     | 5000 Grand Company Seals |
+|   Hands    |     Artisan's Fingerstalls     |     70     | 5000 Grand Company Seals |
+|    Body    |         Artisan's Gown         |     70     | 6500 Grand Company Seals |
+|    Feet    |       Artisan's Patterns       |     70     | 5000 Grand Company Seals |
+|    Head    |      Artisan's Spectacles      |     70     | 5000 Grand Company Seals |
+|    Ears    |       Red Coral Earrings       |     45     |         4224 gil         |
+|    Neck    |        Electrum Choker         |     49     |         4815 gil         |
+|   Wrists   | Electrum Wristlets of Crafting |     46     |         5618 gil         |
+| Right Ring |   Electrum Ring of Crafting    |     47     |         3840 gil         |
+| Left Ring  |   Electrum Ring of Crafting    |     47     |         3840 gil         |
 
 Your level 55 job quest rewards you with an item level 100 primary tool.
 
