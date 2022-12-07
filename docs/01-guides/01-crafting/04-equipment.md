@@ -112,13 +112,13 @@ Every "excellent" condition is followed by a "poor" condition.
 When the item is in poor condition, the quality increase from any Touch action is halved.
 :::
 
-#### Example
-
-:::
-
 ## Materia
 
 ### Melding
+
+:::caution
+Given the rate at which you'll replace the gear, it's virtually never worth the resources to meld anything other than end-game gear. If you have gear- and level- appropriate materia on hand, then it _might_ be useful, but this guide is written based on the assumption that your gear uses only its inherent stats.
+:::
 
 ### Overmelding
 
@@ -405,12 +405,12 @@ Overmelding is **expensive**. Read the notes for the BiS set below.
 
 #### Notes
 
-This set has identical stats to the Perfectionist's/Integral set, with one major caveat: the entire set can be overmelded.
+This set has identical stats to the Perfectionist's/Integral set, with one major difference: the entire set can be overmelded.
 
 :::caution
 Without overmelding, this set has stats identical to the Perfectionist's/Integral set listed previously.
 
-The _only_ reason to go down this path is if you intend to overmeld this equipment in order to meet what is generally considered to be current BiS. The _only_ reason to do that is if you intend on crafting _a lot_ of high end items.
+The _only_ reason get this set is if you intend to overmeld it. The _only_ reason to do that is if you intend to craft _a lot_ of high-end/end-game items, in which case having the "best" available stats would be worth the cost.
 :::
 
 Be prepared to devote many hours and incredible amounts of resources to crafting collectables in order to get enough scrips to afford the amount of materia you're likely to need. Buying materia from the market board is, of course, an alternative, but be prepared to shell out **millions upon millions of gil** (and a frighteningly large share of your sanity) by the time you're finished.
@@ -420,7 +420,7 @@ If you've decided to go this route after all, I salute you, and may the odds be 
 #### Words of Warning
 
 :::caution
-If you **don't** plan on overmelding your left side equipment (head, body, hands, legs, and feet) and tools, do not get this set! It is a waste of gil and/or resources. Go with the standard level 90 set above.
+This bears repeating: If you **don't** plan on overmelding your left side equipment (head, body, hands, legs, and feet) and tools, do not get this set! It is a waste of gil and/or resources. Go with the standard level 90 set above.
 
 If you **do** plan on overmelding your equipment, you MUST get this set. The Perfectionist's items **cannot** be overmelded.
 :::
@@ -480,6 +480,26 @@ This process is **ASTRONOMICALLY FUCKING EXPENSIVE**!
 
 :::caution
 The quantities above give you a 50/50 chance of having enough to complete all of the necessary melds before you burn through your materia. This is because all overmelding is subject to the whim of the RNGods.
+
+The chance of succeeding in a given meld is as follows for left-side pieces:
+
+| Slot | Chance of Success |
+| :--: | ----------------: |
+|  1   |              100% |
+|  2   |              100% |
+|  3   |               17% |
+|  4   |               10% |
+|  5   |                7% |
+
+And for tools and accessories:
+
+| Slot | Chance of Success |
+| :--: | ----------------: |
+|  1   |              100% |
+|  2   |               17% |
+|  3   |               10% |
+|  4   |                7% |
+|  5   |                5% |
 
 I have personally burned through **ninety-seven materia** on a single meld, and I've seen others that have gone **over one hundred**.
 :::
