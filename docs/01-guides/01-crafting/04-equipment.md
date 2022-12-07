@@ -138,11 +138,12 @@ Given the rate at which you'll replace the gear, it's virtually never worth the 
 </td>
 
 <td>
-| Currency | Amount |
-| :---: | ---: |
-| Gil | 22337 |
-| Grand Company Seals | 34000 |
-| White Crafters' Scrips | 60 |
+
+|        Currency        | Amount |
+| :--------------------: | -----: |
+|          Gil           |  22337 |
+|  Grand Company Seals   |  34000 |
+| White Crafters' Scrips |     60 |
 
 </td>
 </tr>
