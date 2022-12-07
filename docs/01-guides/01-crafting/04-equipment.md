@@ -126,9 +126,27 @@ Given the rate at which you'll replace the gear, it's virtually never worth the 
 
 ### Level 50
 
+<table>
+<thead><tr><th>Stats</th><th>Total Cost</th></tr></thead>
+<tr>
+<td>
+
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
 |      336      |   355   | 294 |
+
+</td>
+
+<td>
+| Currency | Amount |
+| :---: | ---: |
+| Gil | 22337 |
+| Grand Company Seals | 34000 |
+| White Crafters' Scrips | 60 |
+
+</td>
+</tr>
+</table>
 
 |    Slot    |              Name              | Item Level |          Source           |
 | :--------: | :----------------------------: | :--------: | :-----------------------: |
