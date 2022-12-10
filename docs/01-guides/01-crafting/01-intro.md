@@ -13,13 +13,13 @@ I hope you find this guide helpful!
 :::caution
 This guide has not yet been fully transitioned over from its old format.
 
-Most notably, crafting rotations are missing.
+Most notably, crafting rotations are missing. You know, **the actually important part**.
 
-To view the old version, navigate to [the guide on GitHub Pages](https://sekyurra.github.io/ffxiv/guides/crafting).
+To view the old version, navigate to [the guide on GitHub Pages](https://astarafar.github.io/ffxiv/guides/crafting).
 :::
 
 :::danger
-The intent of this guide is to minimize how much gil you spend while levelling. The only way to be successful is if you have your gathering jobs levelled already and are willing to spend the time gathering materials instead of buying them.
+The intent of this guide is to minimize how much gil you spend while leveling. The only way to be successful is if you have your gathering jobs levelled already and are willing to spend the time gathering materials instead of buying them.
 
 If you don't have your gatherers levelled already, I STRONGLY recommend doing so before continuing with this guide.
 :::
@@ -30,7 +30,7 @@ A gatherer leveling guide is in the works!
 
 ## Why did I write this?
 
-My initial motivation for this was when a fellow Free Company member was asking to have crafted a seat of high quality crafting gear... for a level 20 crafting job. Being a pentamelded omnicrafter and omnigatherer, I was immediately perplexed by the request. I therefore asked why this was needed. As it turns out, they were following a crafter levelling guide that was requiring some rather outlandish gear in order to follow.
+My initial motivation for this was when a fellow Free Company member was asking to have crafted a seat of high quality crafting gear... for a level 20 crafting job. Being a pentamelded omnicrafter and omnigatherer, I was immediately perplexed by the request. I therefore asked why this was needed. As it turns out, they were following a crafter leveling guide that was requiring some rather outlandish gear in order to follow.
 
 I looked a little closer at the guide, and I realized that the guide was published by a group that also **sold gil for real money**. I noticed that all throughout the guide, they'd sprinkled ads for their gil-selling service. The intent seemed fairly obvious. You'd try to follow this guide, and in doing so, you'd completely wipe yourself out of gil. In a fit of desperation, you'd fork over your money for more gil so that you can keep going.
 
@@ -65,11 +65,14 @@ If you see `something in monospace font`, it's referring to an item, buff, or th
 ```
 If you see a block of text displayed like this,
 it's the body of an in-game macro that you need to create.
-Each consecutive command will be on its own line.
-There is also a copy button for each macro block that will place the macro body on your clipboard, so that you can paste it right into the macro editor in-game.
-
-I've limited macros to 14 lines, so that there's a free line in case you want to add a completion message/sound (/echo Finished! <se.##>) or if you need to add a Final Appraisal action.
+Each individual command will be on its own line.
 ```
+
+:::tip
+There is also a copy button for each macro block that will place the macro body on your clipboard, so that you can paste it right into the macro editor in-game.
+:::
+
+I've limited macros to 14 lines, so that there's a free line in case you want to add a completion message/sound (`/echo Finished! <se.##>`) or if you need to add a `Final Appraisal` action. (More on that later.)
 
 ## Contact the Author
 

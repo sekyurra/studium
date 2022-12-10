@@ -74,6 +74,7 @@ In either condition, several abilities become available for use:
 
 :::tip
 It is often better to use a Touch action during good or excellent quality, as this may provide a greater quality increase than would the 20 CP restored from using `Tricks of the Trade`.
+:::
 
 #### Example (Good Condition)
 
@@ -94,15 +95,13 @@ The simple way to compare this is to figure out how much quality we get per CP i
 
 You can see from the previous example that it's a bad idea in most cases to use a good condition step for `Tricks of the Trade`. Let's run the same example during an excellent condition.
 
-Using `Precise Touch` during an excellent condition yields a quality increase of 1536 (!) for a cost of 18 CP and a loss of 18 durability.
+Using `Precise Touch` during an excellent condition yields a quality increase of 1536 (!) for a cost of 18 CP and a loss of 10 durability.
 
 I tried to figure out how to get even close to that quality increase with `Tricks of the Trade` for the same effective CP cost due to durability, and it's not even worth the comparison.
 
 | Action          | Quality Increase | CP Cost | Quality per CP |
 | --------------- | ---------------- | ------- | -------------- |
 | `Precise Touch` | 1536             | 48      | 32             |
-
-:::
 
 After any action, the good or excellent condition is lost.
 
@@ -114,71 +113,91 @@ When the item is in poor condition, the quality increase from any Touch action i
 
 ## Materia
 
-### Melding
-
-:::caution
-Given the rate at which you'll replace the gear, it's virtually never worth the resources to meld anything other than end-game gear. If you have gear- and level- appropriate materia on hand, then it _might_ be useful, but this guide is written based on the assumption that your gear uses only its inherent stats.
-:::
-
-### Overmelding
+Given the rate at which you'll replace the gear, it's virtually never worth the resources to meld anything other than end-game gear. If you have gear- and level-appropriate materia on hand, then it _might_ be useful, but this guide is written based on the assumption that your entire stat pool comes only from unmelded, normal quality gear, without the use of food or tinctures.
 
 ## Levelling Equipment Sets
 
 ### Level 50
 
-<table>
-<thead><tr><th>Stats</th><th>Total Cost</th></tr></thead>
-<tr>
-<td>
+<div class="row">
+<div class="col">
 
-| Craftsmanship | Control | CP  |
-| :-----------: | :-----: | :-: |
-|      336      |   355   | 294 |
+#### Total Stats
 
-</td>
+|     Stat      | Amount |
+| :-----------: | -----: |
+| Craftsmanship |    336 |
+|    Control    |    355 |
+|      CP       |    294 |
 
-<td>
+</div>
+<div class="col">
+
+#### Total Cost
 
 |        Currency        | Amount |
 | :--------------------: | -----: |
-|          Gil           |  22337 |
 |  Grand Company Seals   |  34000 |
 | White Crafters' Scrips |     60 |
+|          Gil           |  22337 |
 
-</td>
-</tr>
-</table>
+</div>
+</div>
 
-|    Slot    |              Name              | Item Level |          Source           |
+#### Inventory
+
+|    Slot    |              Name              | Item Level |      Source and Cost      |
 | :--------: | :----------------------------: | :--------: | :-----------------------: |
 | Main Hand  |     Artisan's Primary Tool     |     70     | 7500 Grand Company Seals  |
 |  Off Hand  |     Militia Secondary Tool     |     55     | 60 White Crafters' Scrips |
-|    Legs    |       Artisan's Chausses       |     70     | 5000 Grand Company Seals  |
-|   Hands    |     Artisan's Fingerstalls     |     70     | 5000 Grand Company Seals  |
-|    Body    |         Artisan's Gown         |     70     | 6500 Grand Company Seals  |
-|    Feet    |       Artisan's Patterns       |     70     | 5000 Grand Company Seals  |
 |    Head    |      Artisan's Spectacles      |     70     | 5000 Grand Company Seals  |
+|    Body    |         Artisan's Gown         |     70     | 6500 Grand Company Seals  |
+|   Hands    |     Artisan's Fingerstalls     |     70     | 5000 Grand Company Seals  |
+|    Legs    |       Artisan's Chausses       |     70     | 5000 Grand Company Seals  |
+|    Feet    |       Artisan's Patterns       |     70     | 5000 Grand Company Seals  |
 |    Ears    |       Red Coral Earrings       |     45     |         4224 gil          |
 |    Neck    |        Electrum Choker         |     49     |         4815 gil          |
 |   Wrists   | Electrum Wristlets of Crafting |     46     |         5618 gil          |
-| Right Ring |   Electrum Ring of Crafting    |     47     |         3840 gil          |
 | Left Ring  |   Electrum Ring of Crafting    |     47     |         3840 gil          |
+| Right Ring |   Electrum Ring of Crafting    |     47     |         3840 gil          |
 
 :::info
 The Red Coral/Electrum accessories can be purchased from Seghuie in Ishgard, located in The Pillars, X: 7.4, Y: 10.3.
 :::
 
 :::tip
-If you don't have any White Crafters' Scrips, pick up the Mythril secondary tool (ilvl 43) instead. You can buy it from any normal tradecraft tool vendor in the major cities for 4394 gil.
+If you don't have any White Crafters' Scrips (yet), pick up the Mythril secondary tool (ilvl 43) instead. You can buy it from any normal tradecraft tool vendor in the major cities for 4394 gil.
 
 The macros for level 50 and 52 collectables have been written to reach maximum collectability in both cases without breaking if you use the higher one.
 :::
 
 ### Level 53
 
-| Craftsmanship | Control | CP  |
-| :-----------: | :-----: | :-: |
-|      421      |   398   | 294 |
+<div class="row">
+<div class="col">
+
+#### Total Stats
+
+|     Stat      | Amount |
+| :-----------: | -----: |
+| Craftsmanship |    421 |
+|    Control    |    398 |
+|      CP       |    294 |
+
+</div>
+<div class="col">
+
+#### Total Cost
+
+|      Currency       | Amount |
+| :-----------------: | -----: |
+| Grand Company Seals |  34000 |
+|         Gil         |  22337 |
+
+</div>
+</div>
+
+#### Inventory
 
 |    Slot    |              Name              | Item Level |          Source          |
 | :--------: | :----------------------------: | :--------: | :----------------------: |
@@ -192,8 +211,8 @@ The macros for level 50 and 52 collectables have been written to reach maximum c
 |    Ears    |       Red Coral Earrings       |     45     |         4224 gil         |
 |    Neck    |        Electrum Choker         |     49     |         4815 gil         |
 |   Wrists   | Electrum Wristlets of Crafting |     46     |         5618 gil         |
-| Right Ring |   Electrum Ring of Crafting    |     47     |         3840 gil         |
 | Left Ring  |   Electrum Ring of Crafting    |     47     |         3840 gil         |
+| Right Ring |   Electrum Ring of Crafting    |     47     |         3840 gil         |
 
 Your level 53 job quest rewards you with an item level 90 secondary tool.
 
@@ -203,9 +222,31 @@ The crafting rotations for level 54, 56, and 58 assume that you have this.
 
 ### Level 55
 
-| Craftsmanship | Control | CP  |
-| :-----------: | :-----: | :-: |
-|      448      |   409   | 294 |
+<div class="row">
+<div class="col">
+
+#### Total Stats
+
+|     Stat      | Amount |
+| :-----------: | -----: |
+| Craftsmanship |    448 |
+|    Control    |    409 |
+|      CP       |    294 |
+
+</div>
+<div class="col">
+
+#### Total Cost
+
+|      Currency       | Amount |
+| :-----------------: | -----: |
+| Grand Company Seals |  26500 |
+|         Gil         |  22337 |
+
+</div>
+</div>
+
+#### Inventory
 
 |    Slot    |              Name              | Item Level |          Source          |
 | :--------: | :----------------------------: | :--------: | :----------------------: |
@@ -219,8 +260,8 @@ The crafting rotations for level 54, 56, and 58 assume that you have this.
 |    Ears    |       Red Coral Earrings       |     45     |         4224 gil         |
 |    Neck    |        Electrum Choker         |     49     |         4815 gil         |
 |   Wrists   | Electrum Wristlets of Crafting |     46     |         5618 gil         |
-| Right Ring |   Electrum Ring of Crafting    |     47     |         3840 gil         |
 | Left Ring  |   Electrum Ring of Crafting    |     47     |         3840 gil         |
+| Right Ring |   Electrum Ring of Crafting    |     47     |         3840 gil         |
 
 Your level 55 job quest rewards you with an item level 100 primary tool.
 
@@ -230,24 +271,46 @@ The crafting rotation for level 56 and 58 assumes that you have this.
 
 ### Level 58
 
-| Craftsmanship | Control | CP  |
-| :-----------: | :-----: | :-: |
-|      417      |   477   | 283 |
+<div class="row">
+<div class="col">
+
+#### Total Stats
+
+|     Stat      | Amount |
+| :-----------: | -----: |
+| Craftsmanship |    417 |
+|    Control    |    477 |
+|      CP       |    283 |
+
+</div>
+<div class="col">
+
+#### Total Cost
+
+|        Currency        | Amount |
+| :--------------------: | -----: |
+| White Crafters' Scrips |    375 |
+|          Gil           |  22337 |
+
+</div>
+</div>
+
+#### Inventory
 
 |    Slot    |              Name              | Item Level |           Source           |
 | :--------: | :----------------------------: | :--------: | :------------------------: |
 | Main Hand  |     Titanium Primary Tool      |    100     |      Job Quest Reward      |
 |  Off Hand  |    Mythrite Secondary Tool     |     90     |      Job Quest Reward      |
-|    Legs    |          Adept's Hose          |    130     | 60 White Crafter's Scrips  |
-|   Hands    |         Adept's Gloves         |    130     | 60 White Crafter's Scrips  |
-|    Body    |          Adept's Gown          |    130     | 135 White Crafter's Scrips |
-|    Feet    |       Adept's Thighboots       |    130     | 60 White Crafter's Scrips  |
-|    Head    |          Adept's Hat           |    130     | 60 White Crafter's Scrips  |
+|    Legs    |          Adept's Hose          |    130     | 60 White Crafters' Scrips  |
+|   Hands    |         Adept's Gloves         |    130     | 60 White Crafters' Scrips  |
+|    Body    |          Adept's Gown          |    130     | 135 White Crafters' Scrips |
+|    Feet    |       Adept's Thighboots       |    130     | 60 White Crafters' Scrips  |
+|    Head    |          Adept's Hat           |    130     | 60 White Crafters' Scrips  |
 |    Ears    |       Red Coral Earrings       |     45     |          4224 gil          |
 |    Neck    |        Electrum Choker         |     49     |          4815 gil          |
 |   Wrists   | Electrum Wristlets of Crafting |     46     |          5618 gil          |
-| Right Ring |   Electrum Ring of Crafting    |     47     |          3840 gil          |
 | Left Ring  |   Electrum Ring of Crafting    |     47     |          3840 gil          |
+| Right Ring |   Electrum Ring of Crafting    |     47     |          3840 gil          |
 
 :::info
 Continue using the item level 100 primary and item level 90 secondary tools you got from your previous job quests.
@@ -261,24 +324,45 @@ While item level 120 accessories do exist (Dragon Fang Earrings, and the Hallowe
 
 ### Level 60
 
-| Craftsmanship | Control | CP  |
-| :-----------: | :-----: | :-: |
-|      943      |   843   | 381 |
+<div class="row">
+<div class="col">
+
+#### Total Stats
+
+|     Stat      | Amount |
+| :-----------: | -----: |
+| Craftsmanship |    943 |
+|    Control    |    843 |
+|      CP       |    381 |
+
+</div>
+<div class="col">
+
+#### Total Cost
+
+|        Currency        | Amount |
+| :--------------------: | -----: |
+| White Crafters' Scrips |   1300 |
+
+</div>
+</div>
+
+#### Inventory
 
 |    Slot    |              Name               | Item Level |           Source           |
 | :--------: | :-----------------------------: | :--------: | :------------------------: |
-| Main Hand  |  Augmented Keep's Primary Tool  |    200     | 225 White Crafter's Scrips |
-|  Off Hand  | Augmented Keep's Secondary Tool |    200     | 225 White Crafter's Scrips |
-|    Head    |   Augmented Keep's Spectacles   |    200     | 75 White Crafter's Scrips  |
-|    Body    |    Augmented Keep's Overcoat    |    200     | 225 White Crafter's Scrips |
-|   Hands    |     Augmented Keep's Gloves     |    200     | 75 White Crafter's Scrips  |
-|    Legs    |    Augmented Keep's Longkilt    |    200     | 75 White Crafter's Scrips  |
-|    Feet    |   Augmented Keep's Jackboots    |    200     | 75 White Crafter's Scrips  |
-|    Ears    | Augmented Handmaster's Earrings |    200     | 75 White Crafter's Scrips  |
-|    Neck    | Augmented Handmaster's Necklace |    200     | 75 White Crafter's Scrips  |
-|   Wrists   | Augmented Handmaster's Armillae |    200     | 75 White Crafter's Scrips  |
-| Right Ring |   Augmented Handmaster's Ring   |    200     | 50 White Crafter's Scrips  |
-| Left Ring  |   Augmented Handmaster's Ring   |    200     | 50 White Crafter's Scrips  |
+| Main Hand  |  Augmented Keep's Primary Tool  |    200     | 225 White Crafters' Scrips |
+|  Off Hand  | Augmented Keep's Secondary Tool |    200     | 225 White Crafters' Scrips |
+|    Head    |   Augmented Keep's Spectacles   |    200     | 75 White Crafters' Scrips  |
+|    Body    |    Augmented Keep's Overcoat    |    200     | 225 White Crafters' Scrips |
+|   Hands    |     Augmented Keep's Gloves     |    200     | 75 White Crafters' Scrips  |
+|    Legs    |    Augmented Keep's Longkilt    |    200     | 75 White Crafters' Scrips  |
+|    Feet    |   Augmented Keep's Jackboots    |    200     | 75 White Crafters' Scrips  |
+|    Ears    | Augmented Handmaster's Earrings |    200     | 75 White Crafters' Scrips  |
+|    Neck    | Augmented Handmaster's Necklace |    200     | 75 White Crafters' Scrips  |
+|   Wrists   | Augmented Handmaster's Armillae |    200     | 75 White Crafters' Scrips  |
+| Left Ring  |   Augmented Handmaster's Ring   |    200     | 50 White Crafters' Scrips  |
+| Right Ring |   Augmented Handmaster's Ring   |    200     | 50 White Crafters' Scrips  |
 
 :::info
 The Keep's Sets are job-specific; you will require a new armor set for each crafting job you're leveling.
@@ -288,24 +372,46 @@ The Handmaster's Set (accessories) are not job-specific, and can be used across 
 
 ### Level 60 (Universal)
 
-| Craftsmanship | Control | CP  |
-| :-----------: | :-----: | :-: |
-|      900      |   813   | 378 |
+<div class="row">
+<div class="col">
+
+#### Total Stats
+
+|     Stat      | Amount |
+| :-----------: | -----: |
+| Craftsmanship |    900 |
+|    Control    |    813 |
+|      CP       |    378 |
+
+</div>
+<div class="col">
+
+#### Total Cost
+
+|        Currency        | Amount |
+| :--------------------: | -----: |
+| White Crafters' Scrips |    775 |
+|     Crafted Items      |      5 |
+
+</div>
+</div>
+
+#### Inventory
 
 |    Slot    |              Name               | Item Level |           Source           |
 | :--------: | :-----------------------------: | :--------: | :------------------------: |
-| Main Hand  |  Augmented Keep's Primary Tool  |    200     | 225 White Crafter's Scrips |
-|  Off Hand  | Augmented Keep's Secondary Tool |    200     | 225 White Crafter's Scrips |
+| Main Hand  |  Augmented Keep's Primary Tool  |    200     | 225 White Crafters' Scrips |
+|  Off Hand  | Augmented Keep's Secondary Tool |    200     | 225 White Crafters' Scrips |
 |    Head    |    Ironworks Cap of Crafting    |    190     |          Crafted           |
 |    Body    |   Ironworks Apron of Crafting   |    190     |          Crafted           |
 |   Hands    |  Ironworks Sleeves of Crafting  |    190     |          Crafted           |
 |    Legs    | Ironworks Breeches of Crafting  |    190     |          Crafted           |
 |    Feet    |   Ironworks Boots of Crafting   |    190     |          Crafted           |
-|    Ears    | Augmented Handmaster's Earrings |    200     | 75 White Crafter's Scrips  |
-|    Neck    | Augmented Handmaster's Necklace |    200     | 75 White Crafter's Scrips  |
-|   Wrists   | Augmented Handmaster's Armillae |    200     | 75 White Crafter's Scrips  |
-| Right Ring |   Augmented Handmaster's Ring   |    200     | 50 White Crafter's Scrips  |
-| Left Ring  |   Augmented Handmaster's Ring   |    200     | 50 White Crafter's Scrips  |
+|    Ears    | Augmented Handmaster's Earrings |    200     | 75 White Crafters' Scrips  |
+|    Neck    | Augmented Handmaster's Necklace |    200     | 75 White Crafters' Scrips  |
+|   Wrists   | Augmented Handmaster's Armillae |    200     | 75 White Crafters' Scrips  |
+| Left Ring  |   Augmented Handmaster's Ring   |    200     | 50 White Crafters' Scrips  |
+| Right Ring |   Augmented Handmaster's Ring   |    200     | 50 White Crafters' Scrips  |
 
 :::danger
 The Ironworks set (armor and accessories) is usable by all crafting jobs, but it's a crafted set and therefore _far more expensive_ than the Keep's/Handmaster's Sets, and for worse stats.
@@ -325,24 +431,45 @@ In either case, use the primary and secondary tools from the Keep's set.
 
 ### Level 70
 
-| Craftsmanship | Control | CP  |
-| :-----------: | :-----: | :-: |
-|     1645      |  1532   | 400 |
+<div class="row">
+<div class="col">
+
+#### Total Stats
+
+|     Stat      | Amount |
+| :-----------: | -----: |
+| Craftsmanship |   1645 |
+|    Control    |   1532 |
+|      CP       |    400 |
+
+</div>
+<div class="col">
+
+#### Total Cost
+
+|        Currency        | Amount |
+| :--------------------: | -----: |
+| White Crafters' Scrips |   1300 |
+
+</div>
+</div>
+
+#### Inventory
 
 |    Slot    |          Name           | Item Level |           Source           |
 | :--------: | :---------------------: | :--------: | :------------------------: |
-| Main Hand  | Handking's Primary Tool |    350     | 225 White Crafter's Scrips |
-|  Off Hand  |  King's Secondary Tool  |    330     | 225 White Crafter's Scrips |
+| Main Hand  | Handking's Primary Tool |    350     | 225 White Crafters' Scrips |
+|  Off Hand  |  King's Secondary Tool  |    330     | 225 White Crafters' Scrips |
 |    Head    |    Handking's Turban    |    350     | 75 White Crafters' Scrips  |
-|    Body    |   Handking's Doublet    |    350     | 225 White Crafter's Scrips |
+|    Body    |   Handking's Doublet    |    350     | 225 White Crafters' Scrips |
 |   Hands    |    Handking's Gloves    |    350     | 75 White Crafters' Scrips  |
 |    Legs    |   Handking's Bottoms    |    350     | 75 White Crafters' Scrips  |
 |    Feet    |    Handking's Shoes     |    350     | 75 White Crafters' Scrips  |
-|    Ears    |   Handking's Earring    |    350     | 75 White Crafter's Scrips  |
-|    Neck    |   Handking's Necklace   |    350     | 75 White Crafter's Scrips  |
-|   Wrists   |   Handking's Armillae   |    350     | 75 White Crafter's Scrips  |
-| Right Ring |     Handking's Ring     |    350     | 50 White Crafter's Scrips  |
-| Left Ring  |     Handking's Ring     |    350     | 50 White Crafter's Scrips  |
+|    Ears    |   Handking's Earring    |    350     | 75 White Crafters' Scrips  |
+|    Neck    |   Handking's Necklace   |    350     | 75 White Crafters' Scrips  |
+|   Wrists   |   Handking's Armillae   |    350     | 75 White Crafters' Scrips  |
+| Left Ring  |     Handking's Ring     |    350     | 50 White Crafters' Scrips  |
+| Right Ring |     Handking's Ring     |    350     | 50 White Crafters' Scrips  |
 
 :::info
 Aside from the tools, the Handking's armor and accessories are usable by all crafting jobs, so you'll only need to buy the set once.
@@ -350,24 +477,45 @@ Aside from the tools, the Handking's armor and accessories are usable by all cra
 
 ### Level 80
 
-| Craftsmanship | Control | CP  |
-| :-----------: | :-----: | :-: |
-|     2606      |  2457   | 507 |
+<div class="row">
+<div class="col">
+
+#### Total Stats
+
+|     Stat      | Amount |
+| :-----------: | -----: |
+| Craftsmanship |   2606 |
+|    Control    |   2457 |
+|      CP       |    507 |
+
+</div>
+<div class="col">
+
+#### Total Cost
+
+|        Currency        | Amount |
+| :--------------------: | -----: |
+| White Crafters' Scrips |   1850 |
+
+</div>
+</div>
+
+#### Inventory
 
 |    Slot    |             Name              | Item Level |           Source           |
 | :--------: | :---------------------------: | :--------: | :------------------------: |
-| Main Hand  |   Handsaint's Primary Tool    |    500     | 350 White Crafter's Scrips |
-|  Off Hand  |  Handsaint's Secondary Tool   |    500     | 350 White Crafter's Scrips |
+| Main Hand  |   Handsaint's Primary Tool    |    500     | 350 White Crafters' Scrips |
+|  Off Hand  |  Handsaint's Secondary Tool   |    500     | 350 White Crafters' Scrips |
 |    Head    |       Handsaint's Beret       |    500     | 100 White Crafters' Scrips |
-|    Body    |      Handsaint's Jacket       |    500     | 300 White Crafter's Scrips |
+|    Body    |      Handsaint's Jacket       |    500     | 300 White Crafters' Scrips |
 |   Hands    | Handsaint's Fingerless Gloves |    500     | 100 White Crafters' Scrips |
 |    Legs    |     Handsaint's Trousers      |    500     | 100 White Crafters' Scrips |
 |    Feet    |       Handsaint's Shoes       |    500     | 100 White Crafters' Scrips |
-|    Ears    |     Handsaint's Earrings      |    500     | 100 White Crafter's Scrips |
-|    Neck    |     Handsaint's Necklace      |    500     | 100 White Crafter's Scrips |
-|   Wrists   |     Handsaint's Bracelets     |    500     | 100 White Crafter's Scrips |
-| Right Ring |       Handsaint's Ring        |    500     | 75 White Crafter's Scrips  |
-| Left Ring  |       Handsaint's Ring        |    500     | 75 White Crafter's Scrips  |
+|    Ears    |     Handsaint's Earrings      |    500     | 100 White Crafters' Scrips |
+|    Neck    |     Handsaint's Necklace      |    500     | 100 White Crafters' Scrips |
+|   Wrists   |     Handsaint's Bracelets     |    500     | 100 White Crafters' Scrips |
+| Left Ring  |       Handsaint's Ring        |    500     | 75 White Crafters' Scrips  |
+| Right Ring |       Handsaint's Ring        |    500     | 75 White Crafters' Scrips  |
 
 :::info
 Aside from the tools, the Handsaint's armor and accessories are usable by all crafting jobs, so you'll only need to buy the set once.
@@ -377,11 +525,31 @@ Aside from the tools, the Handsaint's armor and accessories are usable by all cr
 
 ### Level 90
 
-#### Stats
+<div class="row">
+<div class="col">
 
-| Craftsmanship | Control | CP  |
-| :-----------: | :-----: | :-: |
-|     3457      |  3184   | 486 |
+#### Total Stats
+
+|     Stat      | Amount |
+| :-----------: | -----: |
+| Craftsmanship |   3457 |
+|    Control    |   3184 |
+|      CP       |    486 |
+
+</div>
+<div class="col">
+
+#### Total Cost
+
+|        Currency         | Amount |
+| :---------------------: | -----: |
+| Purple Crafters' Scrips |   3100 |
+|      Crafted Items      |      5 |
+
+</div>
+</div>
+
+#### Inventory
 
 |    Slot    |                     Name                      | Item Level |           Source            |
 | :--------: | :-------------------------------------------: | :--------: | :-------------------------: |
@@ -395,8 +563,8 @@ Aside from the tools, the Handsaint's armor and accessories are usable by all cr
 |    Ears    |         Integral Earrings of Crafting         |    560     |           Crafted           |
 |    Neck    |         Integral Necklace of Crafting         |    560     |           Crafted           |
 |   Wrists   |         Integral Bracelet of Crafting         |    560     |           Crafted           |
-| Right Ring |           Integral Ring of Crafting           |    560     |           Crafted           |
 | Left Ring  |           Integral Ring of Crafting           |    560     |           Crafted           |
+| Right Ring |           Integral Ring of Crafting           |    560     |           Crafted           |
 
 #### Notes
 
@@ -416,11 +584,13 @@ Overmelding is **expensive**. Read the notes for the BiS set below.
 
 ### Level 90 (6.1/6.2 BiS)
 
-#### Stats
+#### Total Stats
 
-| Craftsmanship | Control | CP  |
-| :-----------: | :-----: | :-: |
-|     3664      |  3784   | 573 |
+|     Stat      | Amount |
+| :-----------: | -----: |
+| Craftsmanship |   3664 |
+|    Control    |   3784 |
+|      CP       |    573 |
 
 #### Notes
 
@@ -452,6 +622,8 @@ This process is **ASTRONOMICALLY FUCKING EXPENSIVE**!
 
 #### The equipment
 
+#### Inventory
+
 |    Slot    |                   Name                    | Item Level | Source  |
 | :--------: | :---------------------------------------: | :--------: | :-----: |
 | Main Hand  |         Pactmaker's Primary Tool          |    590     | Crafted |
@@ -464,8 +636,8 @@ This process is **ASTRONOMICALLY FUCKING EXPENSIVE**!
 |    Ears    |       Integral Earrings of Crafting       |    560     | Crafted |
 |    Neck    |       Integral Necklace of Crafting       |    560     | Crafted |
 |   Wrists   |       Integral Bracelet of Crafting       |    560     | Crafted |
-| Right Ring |         Integral Ring of Crafting         |    560     | Crafted |
 | Left Ring  |         Integral Ring of Crafting         |    560     | Crafted |
+| Right Ring |         Integral Ring of Crafting         |    560     | Crafted |
 
 #### Required Materia
 
@@ -486,21 +658,26 @@ This process is **ASTRONOMICALLY FUCKING EXPENSIVE**!
 
 #### Shopping List
 
-| Materia                                                      |                  Cost Each |   Quantity |                                                    Total Cost |
-| ------------------------------------------------------------ | -------------------------: | ---------: | ------------------------------------------------------------: |
-| **Craftsman's Competence Materia X**<br />Craftsmanship +27  | 500 Purple Crafters' Scrip |         20 |                                  10000 Purple Crafters' Scrip |
-| **Craftsman's Competence Materia IX**<br />Craftsmanship +18 |  250 White Crafters' Scrip |         34 |                                    8500 White Crafters' Scrip |
-| **Craftsman's Command Materia X**<br />Control +18           | 500 Purple Crafters' Scrip |         37 |                                  18500 Purple Crafters' Scrip |
-| **Craftsman's Command Materia IX**<br />Control +12          |  250 White Crafters' Scrip |        154 |                                   38500 White Crafters' Scrip |
-| **Craftsman's Cunning Materia X**<br />CP +10                | 500 Purple Crafters' Scrip |          8 |                                   4000 Purple Crafters' Scrip |
-| **Craftsman's Cunning Materia VII**<br />CP +7               |  200 White Crafters' Scrip |         72 |                                   14400 White Crafters' Scrip |
-| **Craftsman's Cunning Materia V**<br />CP +6                 |  200 White Crafters' Scrip |         42 |                                    8400 White Crafters' Scrip |
-|                                                              |                            | **Totals** | 32500 Purple Crafters' Scrip<br />69800 White Crafters' Scrip |
+| Materia                                                      |                  Cost Each |   Quantity |                                                      Total Cost |
+| ------------------------------------------------------------ | -------------------------: | ---------: | --------------------------------------------------------------: |
+| **Craftsman's Competence Materia X**<br />Craftsmanship +27  | 500 Purple Crafters' Scrip |         20 |                                    10000 Purple Crafters' Scrip |
+| **Craftsman's Competence Materia IX**<br />Craftsmanship +18 |  250 White Crafters' Scrip |         34 |                                      8500 White Crafters' Scrip |
+| **Craftsman's Command Materia X**<br />Control +18           | 500 Purple Crafters' Scrip |         37 |                                    18500 Purple Crafters' Scrip |
+| **Craftsman's Command Materia IX**<br />Control +12          |  250 White Crafters' Scrip |        154 |                                     38500 White Crafters' Scrip |
+| **Craftsman's Cunning Materia X**<br />CP +10                | 500 Purple Crafters' Scrip |          8 |                                     4000 Purple Crafters' Scrip |
+| **Craftsman's Cunning Materia VII**<br />CP +7               |  200 White Crafters' Scrip |         72 |                                     14400 White Crafters' Scrip |
+| **Craftsman's Cunning Materia V**<br />CP +6                 |  200 White Crafters' Scrip |         42 |                                      8400 White Crafters' Scrip |
+|                                                              |                            | **Totals** | 32500 Purple Crafters' Scrips<br />69800 White Crafters' Scrips |
 
 :::caution
 The quantities above give you a 50/50 chance of having enough to complete all of the necessary melds before you burn through your materia. This is because all overmelding is subject to the whim of the RNGods.
 
-The chance of succeeding in a given meld is as follows for left-side pieces:
+The chance of succeeding in a given meld is as follows:
+
+<div class="row">
+<div class="col">
+
+#### Worn Items
 
 | Slot | Chance of Success |
 | :--: | ----------------: |
@@ -510,7 +687,10 @@ The chance of succeeding in a given meld is as follows for left-side pieces:
 |  4   |               10% |
 |  5   |                7% |
 
-And for tools and accessories:
+</div>
+<div class="col">
+
+#### Tools, Accessories:
 
 | Slot | Chance of Success |
 | :--: | ----------------: |
@@ -519,6 +699,9 @@ And for tools and accessories:
 |  3   |               10% |
 |  4   |                7% |
 |  5   |                5% |
+
+</div>
+</div>
 
 I have personally burned through **ninety-seven materia** on a single meld, and I've seen others that have gone **over one hundred**.
 :::
