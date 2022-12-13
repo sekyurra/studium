@@ -6,12 +6,15 @@ sidebar_position: 4
 
 ## Notes
 
+These rotations assume that:
+
+- Your stats are at least those indicated for a given recipe. If you're using one of the [provided gear sets](./equipment.md), this is already taken care of.
+- You are crafting collectable items with the exact recipe level, difficulty, quality, and durability parameters listed.
+- You have all abilities available at the level indicated, including those gained by completing job quests.
+- You don't get screwed by having poor condition during a critical touch action. ☹️
+
 :::tip
 If you're using a level-appropriate gearset from the [equipment list](./equipment.md), you are guaranteed to have the necessary stats for each macro.
-:::
-
-:::info
-This page is separated into sections based on the order in which you unlock each tier of collectables.
 :::
 
 :::info
@@ -25,7 +28,13 @@ These macros are written such that they can accommodate a certain degree of exce
 
 However, if your craftsmanship stat significantly exceeds that listed for a given recipe, an intermediate synthesis step may complete the craft before sufficient quality has been achieved.
 
-If this happens, you will need to [modify the macro](./rotation_info.md#macro-modification).
+If this happens, you will need to [modify the macro](#macro-modification).
+
+Always check your stats in your character window to verify that your _currently effective_ stats will work.
+:::
+
+:::info
+This page is separated into sections based on the order in which you unlock each tier of collectables.
 :::
 
 <hr />
@@ -1470,3 +1479,123 @@ Once you have enough Purple Crafters' Scrips, you can get the level 90 tools and
 
 </div>
 </div>
+
+<hr />
+
+## Macro Modification
+
+If you're stuck with a craftsmanship buff and it's causing problems, this is actually fairly easy to handle.
+
+As long as the crafting job you're leveling is level 42 or higher - which it probably is if you're reading through this guide - then there is a way to compensate for having a higher-than-expected craftsmanship stat. All you have to do is tweak the macro a bit.
+
+### Example 1
+
+Let's take this level 85 collectable crafting rotation as an example. The stats aren't important for this; let's just assume that your craftsmanship stat is just a little too high.
+
+**Before**: Our collectability stat is too high, and so the last `Delicate Synthesis` action (line 11) is maxing out our collectability and screwing up our craft.
+
+```plain {11} showLineNumbers
+/ac "Muscle Memory" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+```
+
+```plain showLineNumbers
+/ac "Prudent Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+We can prevent that synthesis action from capping progress and ruining our craft by inserting a `Final Appraisal` action right before it. Rather than finishing the craft, `Final Appraisal` will cause it to stop one progress point short, leaving us free to complete the touch actions required to hit our collectability target.
+
+**After**: In the example, we've inserted that `Final Appraisal` action at line 11 of the first section, pushing our previously problematic `Delicate Synthesis` action to line 12.
+
+```plain {11-12} showLineNumbers
+/ac "Muscle Memory" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Final Appraisal" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+```
+
+```plain showLineNumbers
+/ac "Prudent Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+### Example 2
+
+If your craftsmanship stat is VERY high, you might be bumping up against completion even earlier.
+
+In that case, insert `Final Appraisal` before the synthesis action that's finishing the craft early, then remove all other synthesis actions after that one, except for the last one.
+
+**Before**: In this example, let's say we're hitting full progress after just four synthesis actions (ending with `Delicate Synthesis` at line 7) instead of the seven we planned for.
+
+```plain {7} showLineNumbers
+/ac "Muscle Memory" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+```
+
+```
+/ac "Prudent Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+**After**: To fix this, we've inserted `Final Appraisal` at line 7, which pushes `Delicate Synthesis` to line 8. We then removed the other synthesis actions after that (lines 9 and 12). We've left the last synthesis action (`Careful Synthesis`, second section, line 3) because we do still need to finish the craft!
+
+```plain {7-8} showLineNumbers
+/ac "Muscle Memory" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Final Appraisal" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+```
+
+```plain {3} showLineNumbers
+/ac "Prudent Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
