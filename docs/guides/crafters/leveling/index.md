@@ -6,14 +6,6 @@ I put a lot of effort into leveling every crafting and gathering job in the game
 
 I hope you find this guide helpful!
 
-:::caution
-This guide has not yet been fully transitioned over from its old format.
-
-Most notably, crafting rotations are missing. You know, **the actually important part**.
-
-To view the old version, navigate to [the guide on GitHub Pages](https://astarafar.github.io/ffxiv/guides/crafting).
-:::
-
 :::danger
 The intent of this guide is to minimize how much gil you spend while leveling. The only way to be successful is if you have your gathering jobs levelled already and are willing to spend the time gathering materials instead of buying them.
 
