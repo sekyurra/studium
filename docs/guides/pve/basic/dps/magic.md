@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Introduction
+# Magic
 
 This guide is intended to help Final Fantasy XIV players level their crafting jobs in a way that reduces the amount of gil that you need to spend to as small a quantity as possible.
 

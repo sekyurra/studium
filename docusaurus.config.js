@@ -71,7 +71,7 @@ const config = {
             label: "Guides",
           },
           {
-            href: "https://github.com/sekyurra/studium",
+            href: "https://github.com/astarafar/studium",
             label: "GitHub",
             position: "right",
           },

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # Equipment
@@ -115,7 +115,7 @@ When the item is in poor condition, the quality increase from any Touch action i
 
 Given the rate at which you'll replace the gear, it's virtually never worth the resources to meld anything other than end-game gear. If you have gear- and level-appropriate materia on hand, then it _might_ be useful, but this guide is written based on the assumption that your entire stat pool comes only from unmelded, normal quality gear, without the use of food or tinctures.
 
-## Levelling Equipment Sets
+## Leveling Equipment Sets
 
 ### Level 50
 
@@ -278,8 +278,8 @@ The crafting rotation for level 56 and 58 assumes that you have this.
 
 |     Stat      | Amount |
 | :-----------: | -----: |
-| Craftsmanship |    417 |
-|    Control    |    477 |
+| Craftsmanship |    508 |
+|    Control    |    519 |
 |      CP       |    283 |
 
 </div>
@@ -301,11 +301,11 @@ The crafting rotation for level 56 and 58 assumes that you have this.
 | :--------: | :----------------------------: | :--------: | :------------------------: |
 | Main Hand  |     Titanium Primary Tool      |    100     |      Job Quest Reward      |
 |  Off Hand  |    Mythrite Secondary Tool     |     90     |      Job Quest Reward      |
-|    Legs    |          Adept's Hose          |    130     | 60 White Crafters' Scrips  |
-|   Hands    |         Adept's Gloves         |    130     | 60 White Crafters' Scrips  |
-|    Body    |          Adept's Gown          |    130     | 135 White Crafters' Scrips |
-|    Feet    |       Adept's Thighboots       |    130     | 60 White Crafters' Scrips  |
 |    Head    |          Adept's Hat           |    130     | 60 White Crafters' Scrips  |
+|    Body    |          Adept's Gown          |    130     | 135 White Crafters' Scrips |
+|   Hands    |         Adept's Gloves         |    130     | 60 White Crafters' Scrips  |
+|    Legs    |          Adept's Hose          |    130     | 60 White Crafters' Scrips  |
+|    Feet    |       Adept's Thighboots       |    130     | 60 White Crafters' Scrips  |
 |    Ears    |       Red Coral Earrings       |     45     |          4224 gil          |
 |    Neck    |        Electrum Choker         |     49     |          4815 gil          |
 |   Wrists   | Electrum Wristlets of Crafting |     46     |          5618 gil          |
