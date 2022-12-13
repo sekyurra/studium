@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Collectable Crafting Macros
 
+## Notes
+
 :::tip
 If you're using a level-appropriate gearset from the [equipment list](./equipment.md), you are guaranteed to have the necessary stats for each macro.
 :::
