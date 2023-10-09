@@ -429,11 +429,11 @@ Aside from the tools, the Handsaint's armor and accessories are usable by all cr
 
 #### Total Stats
 
-|     Stat      | Amount |
-| :-----------: | -----: |
-| Craftsmanship |   3457 |
-|    Control    |   3184 |
-|      CP       |    486 |
+|     Stat      | Amount | With Materia |
+| :-----------: | -----: | --: |
+| Craftsmanship |   3796 | 3904 |
+|    Control    |   3447 | 3591 |
+|      CP       |    504 | 554 |
 
 </div>
 <div class="col">
@@ -442,8 +442,8 @@ Aside from the tools, the Handsaint's armor and accessories are usable by all cr
 
 |        Currency         | Amount |
 | :---------------------: | -----: |
-| Purple Crafters' Scrips |   3100 |
-|      Crafted Items      |      5 |
+| Purple Crafters' Scrips (Gear) |   4440 |
+| Purple Crafters' Scrips (Materia) | 8500 |
 
 </div>
 </div>
@@ -452,157 +452,56 @@ Aside from the tools, the Handsaint's armor and accessories are usable by all cr
 
 |    Slot    |                     Name                      | Item Level |           Source            |
 | :--------: | :-------------------------------------------: | :--------: | :-------------------------: |
-| Main Hand  |         Perfectionist's Primary Tool          |    590     | 500 Purple Crafters' Scrips |
-|  Off Hand  |        Perfectionist's Secondary Tool         |    590     | 500 Purple Crafters' Scrips |
-|    Head    |        Perfectionist's Cap of Crafting        |    590     | 300 Purple Crafters' Scrips |
-|    Body    |      Perfectionist's Doublet of Crafting      |    590     | 900 Purple Crafters' Scrips |
-|   Hands    | Perfectionist's Fingerless Gloves of Crafting |    590     | 300 Purple Crafters' Scrips |
-|    Legs    |     Perfectionist's Trousers of Crafting      |    590     | 300 Purple Crafters' Scrips |
-|    Feet    |       Perfectionist's Boots of Crafting       |    590     | 300 Purple Crafters' Scrips |
-|    Ears    |         Integral Earrings of Crafting         |    560     |           Crafted           |
-|    Neck    |         Integral Necklace of Crafting         |    560     |           Crafted           |
-|   Wrists   |         Integral Bracelet of Crafting         |    560     |           Crafted           |
-| Left Ring  |           Integral Ring of Crafting           |    560     |           Crafted           |
-| Right Ring |           Integral Ring of Crafting           |    560     |           Crafted           |
+| Main Hand  |         Afflatus Primary Tool          |    620     | 500 Purple Crafters' Scrips |
+|  Off Hand  |        Afflatus Secondary Tool         |    620     | 500 Purple Crafters' Scrips |
+|    Head    |        Artful Afflatus Work Cap        |    620     | 300 Purple Crafters' Scrips |
+|    Body    |      Artful Afflatus Work Shirt      |    620     | 900 Purple Crafters' Scrips |
+|   Hands    | Artful Afflatus Halfgloves |    620     | 300 Purple Crafters' Scrips |
+|    Legs    |     Artful Afflatus Hose      |    620     | 300 Purple Crafters' Scrips |
+|    Feet    |       Artful Afflatus Workboots       |    620     | 300 Purple Crafters' Scrips |
+|    Ears    |         Artful Afflatus Earrings         |    620     |           300 Purple Crafters' Scrips           |
+|    Neck    |         Artful Afflatus Necklace         |    620     |           300 Purple Crafters' Scrips           |
+|   Wrists   |         Artful Afflatus Bracelet         |    620     |           300 Purple Crafters' Scrips           |
+| Left Ring  |           Artful Afflatus Ring           |    620     |           220 Purple Crafters' Scrips           |
+| Right Ring |           Artful Afflatus Ring           |    620     |           220 Purple Crafters' Scrips           |
 
 #### Notes
 
 This is a very solid option that will let you craft most things with excellent results.
 
-Without buffs or melding, it will fall short of the craftsmanship and/or control requirements of the 90☆☆☆ recipes.
+Without buffs or melding, it will fall short of the craftsmanship and/or control requirements of the 90☆☆☆☆ recipes.
 
-When melded, you'll be able to craft even the 90☆☆☆ recipes, but you probably won't be able to reach 100% HQ on the precraft (35 durability) recipes even with food and medicines. You can get close, around 85% to 90%, but that means you'll wind up with NQ precrafts some of the time. You will be able to reliably reach 100% HQ on the 90☆☆☆ final craft recipes (70 durability) if you use all HQ precraft materials.
+With careful melding (see below), food, and tinctures, you'll be able to craft even the 90☆☆☆☆ recipes, though you probably won't be able to reach 100% HQ on the precrafts (35 durability). You can get close, around 90%, but that means you'll wind up with NQ precrafts some of the time. You will be able to reliably reach 100% HQ on the 90☆☆☆☆ final craft recipes (70 durability) if you use all HQ precraft materials.
 
-The Integral accessories can be overmelded, and this may further close the gap for the 90☆☆☆ precrafts depending on how you meld it.
+I was able to craft Diadochos gear and its precrafts with the above equipment, the following materia, Jhinga Biryani (HQ), and a Competent Craftsman's Draught:
 
-The Perfectionist's equipment **cannot** be overmelded. They're limited to only the normal materia slots: two for worn items, one for tools.
+| Item | Materia |
+| :-: | :-: |
+| Afflatus Primary Tool | Craftsman's Competence Materia X (Craftsmanship +27) |
+| Afflatus Secondary Tool | Craftsman's Competence Materia X (Craftsmanship +27) |
+| Artful Afflatus Work Cap | Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Competence Materia X (Craftsmanship +27) |
+| Artful Afflatus Work Shirt | Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18) |
+| Artful Afflatus Halfgloves | Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18) |
+| Artful Afflatus Hose | Craftsman's Cunning Materia X (CP +10)<br />Craftsman's Command Materia X (Control +18) |
+| Artful Afflatus Workboots | Craftsman's Cunning Materia X (CP +10)<br />Craftsman's Command Materia X (Control +18) |
+| Artful Afflatus Earrings | Craftsman's Cunning Materia X (CP +10) |
+| Artful Afflatus Necklace | Craftsman's Cunning Materia X (CP +10) |
+| Artful Afflatus Bracelet | Craftsman's Cunning Materia X (CP +10) |
+| Artful Afflatus Ring | Craftsman's Command Materia X (Control +18) |
+| Artful Afflatus Ring | Craftsman's Command Materia X (Control +18) |
+
+The Afflatus equipment **cannot** be overmelded. They're limited to only the normal materia slots: two for worn items, one for tools or accessories.
 
 :::caution
 Overmelding is **expensive**. Read the notes for the BiS set below.
 :::
 
-### Level 90 (6.1/6.2 BiS)
+### Level 90 (6.4/6.5 BiS)
 
-#### Total Stats
-
-|     Stat      | Amount |
-| :-----------: | -----: |
-| Craftsmanship |   3664 |
-|    Control    |   3784 |
-|      CP       |    573 |
-
-#### Notes
-
-This set has identical stats to the Perfectionist's/Integral set, with one major difference: the entire set can be overmelded.
-
-:::caution
-Without overmelding, this set has stats identical to the Perfectionist's/Integral set listed previously.
-
-The _only_ reason get this set is if you intend to overmeld it. The _only_ reason to do that is if you intend to craft _a lot_ of high-end/end-game items, in which case having the "best" available stats would be worth the cost.
-:::
-
-Be prepared to devote many hours and incredible amounts of resources to crafting collectables in order to get enough scrips to afford the amount of materia you're likely to need. Buying materia from the market board is, of course, an alternative, but be prepared to shell out **millions upon millions of gil** (and a frighteningly large share of your sanity) by the time you're finished.
-
-If you've decided to go this route after all, I salute you, and may the odds be ever in your favor.
-
-#### Words of Warning
-
-:::caution
-This bears repeating: If you **don't** plan on overmelding your left side equipment (head, body, hands, legs, and feet) and tools, do not get this set! It is a waste of gil and/or resources. Go with the standard level 90 set above.
-
-If you **do** plan on overmelding your equipment, you MUST get this set. The Perfectionist's items **cannot** be overmelded.
-:::
+The excellent folks over at Teamcraft have [crunched the numbers](https://guides.ffxivteamcraft.com/guide/crafting-melding-guide#recommended-set-6-4) for you already. 
 
 :::danger
-To reach the stats listed for this set, you must fully overmeld every item in the entire set, including tools.
+As I said previously, overmelding is expensive. You can expect to burn through millions of gil in the process, and only the gods can even begin to guess as to how many millions we're talking about.
 
-This process is **ASTRONOMICALLY FUCKING EXPENSIVE**!
+Be absolutely certain that you need the stats that this provides before going this route. If you choose to proceed, welcome to the dysfunctional family of crafter mains, and may the odds be ever in your favor.
 :::
-
-#### The equipment
-
-#### Inventory
-
-|    Slot    |                   Name                    | Item Level | Source  |
-| :--------: | :---------------------------------------: | :--------: | :-----: |
-| Main Hand  |         Pactmaker's Primary Tool          |    590     | Crafted |
-|  Off Hand  |        Pactmaker's Secondary Tool         |    590     | Crafted |
-|    Head    |        Pactmaker's Cap of Crafting        |    590     | Crafted |
-|    Body    |      Pactmaker's Doublet of Crafting      |    590     | Crafted |
-|   Hands    | Pactmaker's Fingerless Gloves of Crafting |    590     | Crafted |
-|    Legs    |     Pactmaker's Trousers of Crafting      |    590     | Crafted |
-|    Feet    |       Pactmaker's Boots of Crafting       |    590     | Crafted |
-|    Ears    |       Integral Earrings of Crafting       |    560     | Crafted |
-|    Neck    |       Integral Necklace of Crafting       |    560     | Crafted |
-|   Wrists   |       Integral Bracelet of Crafting       |    560     | Crafted |
-| Left Ring  |         Integral Ring of Crafting         |    560     | Crafted |
-| Right Ring |         Integral Ring of Crafting         |    560     | Crafted |
-
-#### Required Materia
-
-|                Item                |                                                                                                                                 Materia                                                                                                                                  |
-| :--------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|      Pactmaker's Primary Tool      |              Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Cunning Materia VII (CP +7)               |
-|     Pactmaker's Secondary Tool     |              Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Cunning Materia VII (CP +7)               |
-|   Pactmaker's Turban of Crafting   |        Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18)<br />Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Command Materia IX (Control +12)        |
-|    Pactmaker's Vest of Crafting    |        Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18)<br />Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Command Materia IX (Control +12)        |
-| Pactmaker's Halfgloves of Crafting |        Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18)<br />Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Command Materia IX (Control +12)        |
-|  Pactmaker's Sarouel of Crafting   |               Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18)<br />Craftsman's Cunning Materia X (CP +10)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Command Materia IX (Control +12)               |
-|   Pactmaker's Pumps of Crafting    |               Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18)<br />Craftsman's Cunning Materia X (CP +10)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Command Materia IX (Control +12)               |
-|   Integral Necklace of Crafting    |                  Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Cunning Materia VII (CP +7)<br />Craftsman's Cunning Materia V (CP +6)                  |
-|   Integral Earrings of Crafting    |                  Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Cunning Materia VII (CP +7)<br />Craftsman's Cunning Materia V (CP +6)                  |
-|   Integral Bracelet of Crafting    |                  Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia IX (Control +12)<br />Craftsman's Cunning Materia VII (CP +7)<br />Craftsman's Cunning Materia V (CP +6)                  |
-|     Integral Ring of Crafting      | Craftsman's Command Materia X (Control +18)<br />Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Competence Materia IX (Craftsmanship +18)<br />Craftsman's Competence Materia IX (Craftsmanship +18)<br />Craftsman's Cunning Materia VII (CP +7) |
-|     Integral Ring of Crafting      | Craftsman's Command Materia X (Control +18)<br />Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Competence Materia IX (Craftsmanship +18)<br />Craftsman's Competence Materia IX (Craftsmanship +18)<br />Craftsman's Cunning Materia VII (CP +7) |
-
-#### Shopping List
-
-| Materia                                                      |                  Cost Each |   Quantity |                                                      Total Cost |
-| ------------------------------------------------------------ | -------------------------: | ---------: | --------------------------------------------------------------: |
-| **Craftsman's Competence Materia X**<br />Craftsmanship +27  | 500 Purple Crafters' Scrip |         20 |                                    10000 Purple Crafters' Scrip |
-| **Craftsman's Competence Materia IX**<br />Craftsmanship +18 |  250 White Crafters' Scrip |         34 |                                      8500 White Crafters' Scrip |
-| **Craftsman's Command Materia X**<br />Control +18           | 500 Purple Crafters' Scrip |         37 |                                    18500 Purple Crafters' Scrip |
-| **Craftsman's Command Materia IX**<br />Control +12          |  250 White Crafters' Scrip |        154 |                                     38500 White Crafters' Scrip |
-| **Craftsman's Cunning Materia X**<br />CP +10                | 500 Purple Crafters' Scrip |          8 |                                     4000 Purple Crafters' Scrip |
-| **Craftsman's Cunning Materia VII**<br />CP +7               |  200 White Crafters' Scrip |         72 |                                     14400 White Crafters' Scrip |
-| **Craftsman's Cunning Materia V**<br />CP +6                 |  200 White Crafters' Scrip |         42 |                                      8400 White Crafters' Scrip |
-|                                                              |                            | **Totals** | 32500 Purple Crafters' Scrips<br />69800 White Crafters' Scrips |
-
-:::caution
-The quantities above give you a 50/50 chance of having enough to complete all of the necessary melds before you burn through your materia. This is because all overmelding is subject to the whim of the RNGods.
-
-The chance of succeeding in a given meld is as follows:
-
-<div class="row">
-<div class="col">
-
-#### Worn Items
-
-| Slot | Chance of Success |
-| :--: | ----------------: |
-|  1   |              100% |
-|  2   |              100% |
-|  3   |               17% |
-|  4   |               10% |
-|  5   |                7% |
-
-</div>
-<div class="col">
-
-#### Tools, Accessories:
-
-| Slot | Chance of Success |
-| :--: | ----------------: |
-|  1   |              100% |
-|  2   |               17% |
-|  3   |               10% |
-|  4   |                7% |
-|  5   |                5% |
-
-</div>
-</div>
-
-I have personally burned through **ninety-seven materia** on a single meld, and I've seen others that have gone **over one hundred**.
-:::
-
-![Emotional damage.](@site/static/img/ouch.png)
