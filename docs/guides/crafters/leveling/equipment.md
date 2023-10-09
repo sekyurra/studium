@@ -150,7 +150,7 @@ The crafting rotations for level 54, 56, and 58 assume that you have this.
 |    Slot    |              Name              | Item Level |          Source          |
 | :--------: | :----------------------------: | :--------: | :----------------------: |
 | Main Hand  |     Titanium Primary Tool      |    100     |     Job Quest Reward     |
-|  Off Hand  |    Mythrite Secondary Tool     |     90     |     Job Quest Reward     |
+|  Off Hand  |    i90 Secondary Tool     |     90     |     Job Quest Reward     |
 |    Legs    |       Artisan's Chausses       |     70     | 5000 Grand Company Seals |
 |   Hands    |     Artisan's Fingerstalls     |     70     | 5000 Grand Company Seals |
 |    Body    |         Artisan's Gown         |     70     | 6500 Grand Company Seals |
@@ -199,7 +199,7 @@ The crafting rotation for level 56 and 58 assumes that you have this.
 |    Slot    |              Name              | Item Level |           Source           |
 | :--------: | :----------------------------: | :--------: | :------------------------: |
 | Main Hand  |     Titanium Primary Tool      |    100     |      Job Quest Reward      |
-|  Off Hand  |    Mythrite Secondary Tool     |     90     |      Job Quest Reward      |
+|  Off Hand  |    i90 Secondary Tool     |     90     |      Job Quest Reward      |
 |    Head    |          Adept's Hat           |    130     | 60 White Crafters' Scrips  |
 |    Body    |          Adept's Gown          |    130     | 135 White Crafters' Scrips |
 |   Hands    |         Adept's Gloves         |    130     | 60 White Crafters' Scrips  |
