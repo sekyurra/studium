@@ -65,7 +65,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|      336      |   355   | 150 |
+|      336      |   355   | 294 |
 
 </div>
 </div>
@@ -97,10 +97,6 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 | :------------: | :--: |
 |    200/200     |  3   |
 
-|          Reward           |
-| :-----------------------: |
-| 54 White Crafters' Scrips |
-
 </div>
 </div>
 
@@ -124,7 +120,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|      336      |   355   | 256 |
+|      336      |   355   | 294 |
 
 </div>
 </div>
@@ -183,7 +179,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|      421      |   398   | 244 |
+|      421      |   398   | 294 |
 
 </div>
 </div>
@@ -194,17 +190,18 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 #### Macro
 
 ```
-/ac "Muscle Memory" <wait.3>
+/ac "Waste Not" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Waste Not" <wait.2>
 /ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
 /ac "Great Strides" <wait.2>
+/ac "Veneration" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
+/ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 ```
@@ -252,19 +249,19 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 #### Macro
 
 ```
-/ac "Muscle Memory" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Basic Synthesis" <wait.3>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
-/ac "Master's Mend" <wait.3>
 /ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Great Strides" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Waste Not" <wait.2>
+/ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Byregot's Blessing" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 ```
 
@@ -311,18 +308,18 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 #### Macro
 
 ```
-/ac "Muscle Memory" <wait.3>
-/ac "Basic Synthesis" <wait.3>
+/ac "Waste Not" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
-/ac "Master's Mend" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
+/ac "Veneration" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
+/ac "Basic Synthesis" <wait.3>
+/ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 ```
 
@@ -335,16 +332,16 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 | :------------: | :--: |
 |    256/256     |  3   |
 
-|        Reward         | Amount |
-| :-------------------: | :----: |
-| White Crafters' Scrip |  54   |
-
 </div>
 </div>
 
 <hr />
 
 ## Levels 60-69
+
+:::tip
+We actually have decent gear, now! Things get much easier now.
+:::
 
 :::info
 Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
@@ -370,7 +367,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|      943      |   843   | 268 |
+|      943      |   843   | 381 |
 
 </div>
 </div>
@@ -381,16 +378,17 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 #### Macro
 
 ```
-/ac "Muscle Memory" <wait.3>
-/ac "Waste Not II" <wait.2>
 /ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Great Strides" <wait.2>
+/ac "Master's Mend" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Byregot's Blessing" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 ```
@@ -427,7 +425,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|      943      |   843   | 286 |
+|      943      |   843   | 381 |
 
 </div>
 </div>
@@ -438,19 +436,20 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 #### Macro
 
 ```
-/ac "Muscle Memory" <wait.3>
-/ac "Basic Synthesis" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Waste Not II" <wait.2>
-/ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Basic Touch" <wait.3>
-/ac "Great Strides" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
-/ac "Basic Synthesis" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Careful Synthesis" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+/ac "Careful Synthesis" <wait.3>
 ```
 
 </div>
@@ -485,7 +484,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|      943      |   843   | 258 |
+|      943      |   843   | 381 |
 
 </div>
 </div>
@@ -496,18 +495,20 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 #### Macro
 
 ```
-/ac "Muscle Memory" <wait.3>
-/ac "Careful Synthesis" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Waste Not" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
+/ac "Master's Mend" <wait.3>
 /ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
 /ac "Great Strides" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Careful Synthesis" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+/ac "Careful Synthesis" <wait.3>
 /ac "Careful Synthesis" <wait.3>
 ```
 
@@ -543,7 +544,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|      943      |   843   | 262 |
+|      943      |   843   | 381 |
 
 </div>
 </div>
@@ -554,18 +555,23 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 #### Macro
 
 ```
-/ac "Muscle Memory" <wait.3>
-/ac "Careful Synthesis" <wait.3>
+/ac "Manipulation" <wait.2>
 /ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
-/ac "Prudent Touch" <wait.3>
-/ac "Prudent Touch" <wait.3>
-/ac "Prudent Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
 /ac "Innovation" <wait.2>
-/ac "Prudent Touch" <wait.3>
-/ac "Prudent Touch" <wait.3>
-/ac "Great Strides" <wait.2>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Byregot's Blessing" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Careful Synthesis" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+```
 /ac "Careful Synthesis" <wait.3>
 /ac "Careful Synthesis" <wait.3>
 ```
@@ -602,7 +608,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|      943      |   843   | 322 |
+|      943      |   843   | 381 |
 
 </div>
 </div>
@@ -613,19 +619,23 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 #### Macro
 
 ```
-/ac "Muscle Memory" <wait.3>
-/ac "Careful Synthesis" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Basic Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Master's Mend" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Prudent Touch" <wait.3>
 /ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
 /ac "Great Strides" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Careful Synthesis" <wait.3>
+/ac "Careful Synthesis" <wait.3>
+```
+
+```
 /ac "Careful Synthesis" <wait.3>
 /ac "Careful Synthesis" <wait.3>
 ```
@@ -666,7 +676,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     1645      |  1532   | 227 |
+|     1645      |  1532   | 400 |
 
 </div>
 </div>
@@ -678,14 +688,12 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 ```
 /ac "Reflect" <wait.3>
-/ac "Waste Not" <wait.2>
 /ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
 /ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
 /ac "Veneration" <wait.2>
 /ac "Careful Synthesis" <wait.3>
 /ac "Careful Synthesis" <wait.3>
@@ -729,7 +737,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     1645      |  1532   | 298 |
+|     1645      |  1532   | 400 |
 
 </div>
 </div>
@@ -741,13 +749,14 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 ```
 /ac "Reflect" <wait.3>
-/ac "Waste Not II" <wait.2>
+/ac "Manipulation" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
 /ac "Innovation" <wait.2>
 /ac "Basic Touch" <wait.3>
-/ac "Preparatory Touch" <wait.3>
-/ac "Preparatory Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Byregot's Blessing" <wait.3>
-/ac "Groundwork" <wait.3>
+/ac "Veneration" <wait.2>
 /ac "Groundwork" <wait.3>
 /ac "Groundwork" <wait.3>
 ```
@@ -788,7 +797,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     1645      |  1532   | 320 |
+|     1645      |  1532   | 400 |
 
 </div>
 </div>
@@ -800,11 +809,12 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 ```
 /ac "Reflect" <wait.3>
-/ac "Waste Not II" <wait.2>
+/ac "Manipulation" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
 /ac "Innovation" <wait.2>
-/ac "Preparatory Touch" <wait.3>
-/ac "Preparatory Touch" <wait.3>
-/ac "Preparatory Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
+/ac "Standard Touch" <wait.3>
 /ac "Byregot's Blessing" <wait.3>
 /ac "Veneration" <wait.2>
 /ac "Groundwork" <wait.3>
@@ -847,7 +857,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     1645      |  1532   | 327 |
+|     1645      |  1532   | 400 |
 
 </div>
 </div>
@@ -859,16 +869,17 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 ```
 /ac "Reflect" <wait.3>
-/ac "Waste Not II" <wait.2>
+/ac "Waste Not" <wait.2>
 /ac "Innovation" <wait.2>
 /ac "Preparatory Touch" <wait.3>
 /ac "Preparatory Touch" <wait.3>
 /ac "Preparatory Touch" <wait.3>
 /ac "Byregot's Blessing" <wait.3>
+/ac "Waste Not" <wait.2>
 /ac "Veneration" <wait.2>
 /ac "Groundwork" <wait.3>
 /ac "Groundwork" <wait.3>
-/ac "Careful Synthesis" <wait.3>
+/ac "Groundwork" <wait.3>
 ```
 
 </div>
@@ -907,7 +918,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     1645      |  1532   | 361 |
+|     1645      |  1532   | 400 |
 
 </div>
 </div>
@@ -918,17 +929,19 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 #### Macro
 
 ```
-/ac "Preparatory Touch" <wait.3>
-/ac "Waste Not II" <wait.2>
+/ac "Reflect" <wait.3>
 /ac "Innovation" <wait.2>
+/ac "Manipulation" <wait.2>
 /ac "Preparatory Touch" <wait.3>
+/ac "Basic Touch" <wait.3>
 /ac "Preparatory Touch" <wait.3>
-/ac "Preparatory Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Great Strides" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
 /ac "Veneration" <wait.2>
-/ac "Groundwork" <wait.3>
-/ac "Groundwork" <wait.3>
 /ac "Careful Synthesis" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Groundwork" <wait.3>
 ```
 
 </div>
@@ -971,7 +984,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     2606      |  2457   | 272 |
+| 2606 | 2457 | 507 |
 
 </div>
 </div>
@@ -1029,7 +1042,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     2606      |  2457   | 327 |
+| 2606 | 2457 | 507 |
 
 </div>
 </div>
@@ -1041,16 +1054,17 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 ```
 /ac "Reflect" <wait.3>
-/ac "Waste Not II" <wait.2>
+/ac "Waste Not" <wait.2>
 /ac "Innovation" <wait.2>
 /ac "Preparatory Touch" <wait.3>
 /ac "Preparatory Touch" <wait.3>
 /ac "Preparatory Touch" <wait.3>
 /ac "Byregot's Blessing" <wait.3>
+/ac "Waste Not" <wait.2>
 /ac "Veneration" <wait.2>
 /ac "Groundwork" <wait.3>
 /ac "Groundwork" <wait.3>
-/ac "Careful Synthesis" <wait.3>
+/ac "Groundwork" <wait.3>
 ```
 
 </div>
@@ -1089,7 +1103,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     2606      |  2457   | 384 |
+| 2606 | 2457 | 507 |
 
 </div>
 </div>
@@ -1101,14 +1115,14 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 ```
 /ac "Reflect" <wait.3>
-/ac "Waste Not" <wait.2>
+/ac "Manipulation" <wait.2>
 /ac "Preparatory Touch" <wait.3>
+/ac "Waste Not" <wait.2>
 /ac "Innovation" <wait.2>
 /ac "Preparatory Touch" <wait.3>
 /ac "Preparatory Touch" <wait.3>
 /ac "Great Strides" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
-/ac "Waste Not" <wait.2>
 /ac "Veneration" <wait.2>
 /ac "Groundwork" <wait.3>
 /ac "Groundwork" <wait.3>
@@ -1151,7 +1165,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     2606      |  2457   | 494 |
+| 2606 | 2457 | 507 |
 
 </div>
 </div>
@@ -1163,25 +1177,20 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 ```
 /ac "Reflect" <wait.3>
+/ac "Preparatory Touch" <wait.3>
 /ac "Manipulation" <wait.2>
-/ac "Innovation" <wait.2>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
-/ac "Advanced Touch" <wait.3>
 /ac "Preparatory Touch" <wait.3>
 /ac "Innovation" <wait.2>
 /ac "Prudent Touch" <wait.3>
-/ac "Prudent Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Great Strides" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
-/ac "Waste Not II" <wait.2>
+/ac "Waste Not" <wait.2>
 /ac "Veneration" <wait.2>
 /ac "Groundwork" <wait.3>
-```
-
-```
 /ac "Groundwork" <wait.3>
 /ac "Groundwork" <wait.3>
-/ac "Groundwork" <wait.3>
+/ac "Careful Synthesis" <wait.3>
 ```
 
 </div>
@@ -1220,7 +1229,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     2606      |  2457   | 484 |
+| 2606 | 2457 | 507 |
 
 </div>
 </div>
@@ -1233,15 +1242,15 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 ```
 /ac "Reflect" <wait.3>
 /ac "Manipulation" <wait.2>
+/ac "Basic Touch" <wait.3>
 /ac "Preparatory Touch" <wait.3>
-/ac "Preparatory Touch" <wait.3>
-/ac "Waste Not II" <wait.2>
 /ac "Innovation" <wait.2>
 /ac "Preparatory Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
 /ac "Great Strides" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
 /ac "Veneration" <wait.2>
+/ac "Master's Mend" <wait.3>
 /ac "Groundwork" <wait.3>
 /ac "Groundwork" <wait.3>
 /ac "Groundwork" <wait.3>
@@ -1283,7 +1292,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     2606      |  2457   | 499 |
+| 2606 | 2457 | 507 |
 
 </div>
 </div>
@@ -1296,19 +1305,23 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 ```
 /ac "Reflect" <wait.3>
 /ac "Manipulation" <wait.2>
-/ac "Basic Touch" <wait.3>
-/ac "Preparatory Touch" <wait.3>
-/ac "Waste Not II" <wait.2>
 /ac "Innovation" <wait.2>
 /ac "Preparatory Touch" <wait.3>
 /ac "Preparatory Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Great Strides" <wait.2>
 /ac "Preparatory Touch" <wait.3>
+/ac "Great Strides" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
 /ac "Veneration" <wait.2>
+/ac "Waste Not" <wait.2>
 /ac "Groundwork" <wait.3>
 /ac "Groundwork" <wait.3>
+```
+
+```
 /ac "Groundwork" <wait.3>
-/ac "Careful Synthesis" <wait.3>
+/ac "Groundwork" <wait.3>
 ```
 
 </div>
@@ -1367,7 +1380,7 @@ Do not use the HQ Precrafts macro with normal-quality precrafts. It will most li
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     2606      |  2457   | 499 |
+| 2606 | 2457 | 507 |
 
 </div>
 </div>
