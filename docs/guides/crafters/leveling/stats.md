@@ -4,6 +4,14 @@ sidebar_position: 2
 
 # Stats and Effects
 
+:::tip
+This section is here for those who want to have a better understanding of how this works.
+
+The guide itself (gear sets, macros, etc.) has been written so that you don't have to care about anything on this page.
+
+As long as you're using gear that provides **at least** the stats required for a given craft, the macro provided for that craft will work 100% of the time, with one exception: If RNG gets pissy and you wind up with a Poor condition for a major quality step (e.g. Byregot's Blessing), things might come up short. There's nothing I can do in a macro to account for that. ☹️
+:::
+
 ## Crafter Stats
 
 No guide of this sort would be complete without an overview of what each crafting stat does, what can affect it, and what effects such changes would have.
@@ -84,10 +92,8 @@ If your stats differ from those assumed for a given rotation, you may experience
 
 - **High**: ⚠️ If your craftsmanship is too high for the macro you're running, you may accidentally complete the craft before increasing its collectability. While the craft will succeed, the collectability may be too low for an appraiser to accept, which essentially equals failure.
 
-:::caution
-The macros provided in this guide have, to the extent possible, been written to accommodate a certain amount of excess craftsmanship, so things like FC buffs shouldn't pose a problem. However, you can still run into issues if your craftsmanship stat is significantly higher than what's expected for a given macro.
-
-If you are having issues because of a high craftsmanship stat, the provided macros [can be adjusted](./macros.md#macro-modification) to work around the issue.
+:::info
+The macros provided in this guide have been written so that all quality actions are completed before any progress is made toward completion of the craft. This means that any excess in your craftsmanship stat shouldn't affect the outcome.
 :::
 
 ### Control
@@ -98,7 +104,7 @@ If you are having issues because of a high craftsmanship stat, the provided macr
 
 ### CP
 
-- **Low**: ⛔ If your CP is too low, you may not be able to complete the rotation at all. This typically results in failure to meet progress AND quality requiements, causing the craft to fail.
+- **Low**: ⛔ If your CP is too low, you may not be able to complete the rotation at all. This typically results in failure to meet progress AND quality requirements, causing the craft to fail.
 
 - **High**: ✅ It's okay for your CP to be high. You'll just have more CP left over at the end of the rotation, but there are no negative effects.
 

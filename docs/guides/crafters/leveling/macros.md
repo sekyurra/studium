@@ -86,7 +86,6 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 /ac "Veneration" <wait.2>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
-/echo Macro #1 complete <se.14>
 ```
 
 </div>
@@ -1340,6 +1339,18 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 Until now, all of our collectable turn-ins reward White Crafters' Scrips. The level 90 gear requires Purple Crafters' Scrips, so for our first run through, we'll use the level 80 gear to get enough Purple Crafters' Scrips to buy level 90 gear. After that, you can use your first level 90 job to farm the scrips for the next job, and you won't have to go through this rotation again.
 :::
 
+:::tip
+Two macros have been provided for this recipe: One using normal-quality precrafts that will result in a second-tier turn in, and one using high-quality precrafts that will result in a top-tier turn in. You're free to decide which is best for you.
+:::
+
+:::info
+Using the NQ Precrafts macro with high-quality precrafts is fine, just inefficient.
+:::
+
+:::danger
+Do not use the HQ Precrafts macro with normal-quality precrafts. It will most likely fail to meet minimum collectability requirements.
+:::
+
 <div class="row">
 <div class="col">
 
@@ -1364,35 +1375,31 @@ Until now, all of our collectable turn-ins reward White Crafters' Scrips. The le
 <div class="row">
 <div class="col">
 
-#### Macro
+#### Macro (NQ Precrafts)
 
 ```
-/ac "Muscle Memory" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Basic Touch" <wait.3>
-/ac "Observe" <wait.3>
-/ac "Focused Synthesis" <wait.3>
+/ac "Reflect" <wait.3>
 /ac "Manipulation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
 /ac "Innovation" <wait.2>
-/ac "Basic Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
-/ac "Advanced Touch" <wait.3>
-/ac "Observe" <wait.3>
-/ac "Focused Synthesis" <wait.3>
-/ac "Manipulation" <wait.2>
-```
-
-```
-/ac "Innovation" <wait.2>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
-/ac "Advanced Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Great Strides" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
 /ac "Veneration" <wait.2>
+```
+
+```
 /ac "Groundwork" <wait.3>
-/ac "Observe" <wait.3>
-/ac "Focused Synthesis" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Prudent Synthesis" <wait.3>
+/ac "Prudent Synthesis" <wait.3>
+/ac "Prudent Synthesis" <wait.3>
 /ac "Careful Synthesis" <wait.3>
 ```
 
@@ -1403,11 +1410,50 @@ Until now, all of our collectable turn-ins reward White Crafters' Scrips. The le
 
 | Collectability | Tier |
 | :------------: | :--: |
-|    526/720     |  1   |
+|    598/720     |  2   |
 
 |         Reward         | Amount |
 | :--------------------: | :----: |
-| Purple Crafters' Scrip |  120   |
+| Purple Crafters' Scrip |  132   |
+
+</div>
+</div>
+
+<div class="row">
+<div class="col">
+
+#### Macro (HQ Precrafts)
+
+```
+/ac "Reflect" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Prudent Synthesis" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Prudent Synthesis" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Groundwork" <wait.3>
+```
+
+</div>
+<div class="col">
+
+#### Results
+
+| Collectability | Tier |
+| :------------: | :--: |
+|    720/720     |  3   |
+
+|         Reward         | Amount |
+| :--------------------: | :----: |
+| Purple Crafters' Scrip |  144   |
 
 </div>
 </div>
@@ -1417,7 +1463,11 @@ Until now, all of our collectable turn-ins reward White Crafters' Scrips. The le
 ### Level 90 (Level 90 Gear)
 
 :::tip
-Once you have enough Purple Crafters' Scrips, you can get the level 90 tools and Perfectionist's items for your first job. That along with the level 80 accessories should be sufficient to craft the Integral accessories. Then you can use this rotation with your first job to farm Purple Crafters' Scrips to get your tools for any subsequent job.
+Once you have enough Purple Crafters' Scrips, you can get the [level 90 gear set](./equipment.md#for-most-peoplei620-scrip-gear) for your first job. You can then use this rotation with your first job to farm the Purple Crafters' Scrips needed for the tools for any subsequent job.
+:::
+
+:::info
+This macro does not require the materia listed in the [associated gear set](./equipment.md#for-most-peoplei620-scrip-gear), though it will function perfectly without modification if used with melded gear.
 :::
 
 <div class="row">
@@ -1432,11 +1482,11 @@ Once you have enough Purple Crafters' Scrips, you can get the level 90 tools and
 </div>
 <div class="col">
 
-#### Required Stats ([Level 90 Gearset](./equipment.md#level-90))
+#### Required Stats ([Level 90 Gearset](./equipment.md#for-most-peoplei620-scrip-gear))
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|     3457      |  3184   | 487 |
+|     3796      |  3447   | 504 |
 
 </div>
 </div>
@@ -1449,23 +1499,17 @@ Once you have enough Purple Crafters' Scrips, you can get the level 90 tools and
 ```
 /ac "Reflect" <wait.3>
 /ac "Manipulation" <wait.2>
-/ac "Waste Not II" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
 /ac "Preparatory Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
 /ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
 /ac "Preparatory Touch" <wait.3>
-/ac "Preparatory Touch" <wait.3>
-/ac "Preparatory Touch" <wait.3>
+/ac "Great Strides" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
-/ac "Careful Synthesis" <wait.3>
 /ac "Veneration" <wait.2>
-/ac "Basic Synthesis" <wait.3>
-/ac "Basic Synthesis" <wait.3>
-```
-
-```
 /ac "Groundwork" <wait.3>
-/ac "Careful Synthesis" <wait.3>
+/ac "Groundwork" <wait.3>
 /ac "Careful Synthesis" <wait.3>
 ```
 
@@ -1486,121 +1530,3 @@ Once you have enough Purple Crafters' Scrips, you can get the level 90 tools and
 </div>
 
 <hr />
-
-## Macro Modification
-
-If you're stuck with a craftsmanship buff and it's causing problems, this is actually fairly easy to handle.
-
-As long as the crafting job you're leveling is level 42 or higher - which it probably is if you're reading through this guide - then there is a way to compensate for having a higher-than-expected craftsmanship stat. All you have to do is tweak the macro a bit.
-
-### Example 1
-
-Let's take this level 85 collectable crafting rotation as an example. The stats aren't important for this; let's just assume that your craftsmanship stat is just a little too high.
-
-**Before**: Our collectability stat is too high, and so the last `Delicate Synthesis` action (line 11) is maxing out our collectability and screwing up our craft.
-
-```plain {11} showLineNumbers
-/ac "Muscle Memory" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Prudent Touch" <wait.3>
-/ac "Groundwork" <wait.3>
-/ac "Manipulation" <wait.2>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Prudent Touch" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
-```
-
-```plain showLineNumbers
-/ac "Prudent Touch" <wait.3>
-/ac "Byregot's Blessing" <wait.3>
-/ac "Careful Synthesis" <wait.3>
-```
-
-We can prevent that synthesis action from capping progress and ruining our craft by inserting a `Final Appraisal` action right before it. Rather than finishing the craft, `Final Appraisal` will cause it to stop one progress point short, leaving us free to complete the touch actions required to hit our collectability target.
-
-**After**: In the example, we've inserted that `Final Appraisal` action at line 11 of the first section, pushing our previously problematic `Delicate Synthesis` action to line 12.
-
-```plain {11-12} showLineNumbers
-/ac "Muscle Memory" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Prudent Touch" <wait.3>
-/ac "Groundwork" <wait.3>
-/ac "Manipulation" <wait.2>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Prudent Touch" <wait.3>
-/ac "Final Appraisal" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
-```
-
-```plain showLineNumbers
-/ac "Prudent Touch" <wait.3>
-/ac "Byregot's Blessing" <wait.3>
-/ac "Careful Synthesis" <wait.3>
-```
-
-### Example 2
-
-If your craftsmanship stat is VERY high, you might be bumping up against completion even earlier.
-
-In that case, insert `Final Appraisal` before the synthesis action that's finishing the craft early, then remove all other synthesis actions after that one, except for the last one.
-
-**Before**: In this example, let's say we're hitting full progress after just four synthesis actions (ending with `Delicate Synthesis` at line 7) instead of the seven we planned for.
-
-```plain {7} showLineNumbers
-/ac "Muscle Memory" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Prudent Touch" <wait.3>
-/ac "Groundwork" <wait.3>
-/ac "Manipulation" <wait.2>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Prudent Touch" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
-```
-
-```
-/ac "Prudent Touch" <wait.3>
-/ac "Byregot's Blessing" <wait.3>
-/ac "Careful Synthesis" <wait.3>
-```
-
-**After**: To fix this, we've inserted `Final Appraisal` at line 7, which pushes `Delicate Synthesis` to line 8. We then removed the other synthesis actions after that (lines 9 and 12). We've left the last synthesis action (`Careful Synthesis`, second section, line 3) because we do still need to finish the craft!
-
-```plain {7-8} showLineNumbers
-/ac "Muscle Memory" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Prudent Touch" <wait.3>
-/ac "Groundwork" <wait.3>
-/ac "Manipulation" <wait.2>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Final Appraisal" <wait.3>
-/ac "Delicate Synthesis" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Prudent Touch" <wait.3>
-/ac "Innovation" <wait.2>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
-```
-
-```plain {3} showLineNumbers
-/ac "Prudent Touch" <wait.3>
-/ac "Byregot's Blessing" <wait.3>
-/ac "Careful Synthesis" <wait.3>
-```

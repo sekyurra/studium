@@ -14,7 +14,7 @@ As you turn in collectables, you'll be "paid" in experience and White Crafters' 
 You will almost certainly earn more scrips than you can spend; consider spending these on equipment for the other crafting jobs you plan to level, so that by the time you need it on those other jobs, you already have it.
 :::
 
-## Leveling Equipment Sets
+## Leveling Gear Sets
 
 ### Level 50
 
@@ -420,9 +420,13 @@ Aside from the tools, the Handking's armor and accessories are usable by all cra
 Aside from the tools, the Handsaint's armor and accessories are usable by all crafting jobs, so you'll only need to buy the set once.
 :::
 
-## Endgame Equipment Sets
+## Level 90 Gear Sets
 
-### Level 90
+There are two major options for gear at level 90. There's the gear that most people will use, and the gear that *Those* People will use.
+
+### For Most People<br />(i620 Scrip Gear)
+
+This is a very solid option that will let you craft most things with excellent results. Using the right food and tinctures, you can craft nearly anything in the game, though the 90☆☆☆☆ recipes may pose a challenge. It's best to make sure that all of your precrafts are high quality before trying to craft the final product.
 
 <div class="row">
 <div class="col">
@@ -431,8 +435,8 @@ Aside from the tools, the Handsaint's armor and accessories are usable by all cr
 
 |     Stat      | Amount | With Materia |
 | :-----------: | -----: | --: |
-| Craftsmanship |   3796 | 3904 |
-|    Control    |   3447 | 3591 |
+| Craftsmanship |   3796 | 3958 |
+|    Control    |   3447 | 3573 |
 |      CP       |    504 | 554 |
 
 </div>
@@ -448,7 +452,7 @@ Aside from the tools, the Handsaint's armor and accessories are usable by all cr
 </div>
 </div>
 
-#### Inventory
+#### Gear
 
 |    Slot    |                     Name                      | Item Level |           Source            |
 | :--------: | :-------------------------------------------: | :--------: | :-------------------------: |
@@ -465,40 +469,28 @@ Aside from the tools, the Handsaint's armor and accessories are usable by all cr
 | Left Ring  |           Artful Afflatus Ring           |    620     |           220 Purple Crafters' Scrips           |
 | Right Ring |           Artful Afflatus Ring           |    620     |           220 Purple Crafters' Scrips           |
 
-#### Notes
-
-This is a very solid option that will let you craft most things with excellent results.
-
-Without buffs or melding, it will fall short of the craftsmanship and/or control requirements of the 90☆☆☆☆ recipes.
-
-With careful melding (see below), food, and tinctures, you'll be able to craft even the 90☆☆☆☆ recipes, though you probably won't be able to reach 100% HQ on the precrafts (35 durability). You can get close, around 90%, but that means you'll wind up with NQ precrafts some of the time. You will be able to reliably reach 100% HQ on the 90☆☆☆☆ final craft recipes (70 durability) if you use all HQ precraft materials.
-
-I was able to craft Diadochos gear and its precrafts with the above equipment, the following materia, Jhinga Biryani (HQ), and a Competent Craftsman's Draught:
+#### Materia
 
 | Item | Materia |
 | :-: | :-: |
 | Afflatus Primary Tool | Craftsman's Competence Materia X (Craftsmanship +27) |
-| Afflatus Secondary Tool | Craftsman's Competence Materia X (Craftsmanship +27) |
-| Artful Afflatus Work Cap | Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Competence Materia X (Craftsmanship +27) |
-| Artful Afflatus Work Shirt | Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18) |
-| Artful Afflatus Halfgloves | Craftsman's Command Materia X (Control +18)<br />Craftsman's Command Materia X (Control +18) |
+| Afflatus Secondary Tool | Craftsman's Command Materia X (Control +18) |
+| Artful Afflatus Work Cap | Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Command Materia X (Control +18) |
+| Artful Afflatus Work Shirt | Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Command Materia X (Control +18) |
+| Artful Afflatus Halfgloves | Craftsman's Competence Materia X (Craftsmanship +27)<br />Craftsman's Command Materia X (Control +18) |
 | Artful Afflatus Hose | Craftsman's Cunning Materia X (CP +10)<br />Craftsman's Command Materia X (Control +18) |
 | Artful Afflatus Workboots | Craftsman's Cunning Materia X (CP +10)<br />Craftsman's Command Materia X (Control +18) |
 | Artful Afflatus Earrings | Craftsman's Cunning Materia X (CP +10) |
 | Artful Afflatus Necklace | Craftsman's Cunning Materia X (CP +10) |
-| Artful Afflatus Bracelet | Craftsman's Cunning Materia X (CP +10) |
-| Artful Afflatus Ring | Craftsman's Command Materia X (Control +18) |
-| Artful Afflatus Ring | Craftsman's Command Materia X (Control +18) |
+| Artful Afflatus Bracelet | Craftsman's Command Materia X (Control +18) |
+| Artful Afflatus Ring | Craftsman's Competence Materia X (Craftsmanship +27) |
+| Artful Afflatus Ring | Craftsman's Competence Materia X (Craftsmanship +27) |
 
-The Afflatus equipment **cannot** be overmelded. They're limited to only the normal materia slots: two for worn items, one for tools or accessories.
+### For Those People<br />(6.4/6.5 BiS)
 
-:::caution
-Overmelding is **expensive**. Read the notes for the BiS set below.
-:::
+This isn't the set for those who want to be able to craft anything. This is the set for those who must be able to craft **everything** in large quantities.
 
-### Level 90 (6.4/6.5 BiS)
-
-The excellent folks over at Teamcraft have [crunched the numbers](https://guides.ffxivteamcraft.com/guide/crafting-melding-guide#recommended-set-6-4) for you already. 
+If this is you, the excellent folks over at Teamcraft have [crunched the numbers](https://guides.ffxivteamcraft.com/guide/crafting-melding-guide#recommended-set-6-4) for you already. 
 
 :::danger
 As I said previously, overmelding is expensive. You can expect to burn through millions of gil in the process, and only the gods can even begin to guess as to how many millions we're talking about.
