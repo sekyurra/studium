@@ -283,15 +283,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 <hr />
 
-## Levels 57-60
-
-:::info
-Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
-:::
-
-<hr />
-
-### Level 58
+## Level 58
 
 <div class="row">
 <div class="col">
@@ -344,8 +336,20 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 | :------------: | :--: |
 |    256/256     |  3   |
 
+|        Reward         | Amount |
+| :-------------------: | :----: |
+| White Crafters' Scrip |  54   |
+
 </div>
 </div>
+
+<hr />
+
+## Levels 60-69
+
+:::info
+Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
+:::
 
 <hr />
 
@@ -403,14 +407,6 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 </div>
 </div>
-
-<hr />
-
-## Levels 61-70
-
-:::info
-Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
-:::
 
 <hr />
 
@@ -649,6 +645,10 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 <hr />
 
+## Levels 70-79
+
+<hr />
+
 ### Level 70
 
 <div class="row">
@@ -702,12 +702,13 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 | :------------: | :--: |
 |    360/360     |  3   |
 
+
+|        Reward         | Amount |
+| :-------------------: | :----: |
+| White Crafters' Scrip |   54   |
+
 </div>
 </div>
-
-<hr />
-
-## Levels 71-80
 
 <hr />
 
@@ -949,6 +950,10 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 <hr/>
 
+## Levels 80-89
+
+<hr/>
+
 ### Level 80
 
 <div class="row">
@@ -1004,10 +1009,6 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 </div>
 </div>
-
-<hr/>
-
-## Levels 81-90
 
 <hr/>
 
@@ -1326,6 +1327,10 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 </div>
 </div>
+
+<hr/>
+
+## Level 90
 
 <hr/>
 
