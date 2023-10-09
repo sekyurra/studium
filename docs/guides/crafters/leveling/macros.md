@@ -340,7 +340,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 ## Levels 60-69
 
 :::tip
-We actually have decent gear, now! Things get much easier now.
+We now have decent gear! Things are much easier going forward.
 :::
 
 :::info
