@@ -18,23 +18,11 @@ If you're using a level-appropriate gearset from the [equipment list](./equipmen
 :::
 
 :::info
-The macros provided will work as long as your craftsmanship and control stats meet or exceed that listed for each recipe.
-
-The CP requirement listed is the amount of CP needed to complete the macro; your gear will provide more than that, but it won't be used.
-:::
-
-:::caution
-These macros are written such that they can accommodate a certain degree of excess craftsmanship, to account for things like FC buffs.
-
-However, if your craftsmanship stat significantly exceeds that listed for a given recipe, an intermediate synthesis step may complete the craft before sufficient quality has been achieved.
-
-If this happens, you will need to [modify the macro](#macro-modification).
-
-Always check your stats in your character window to verify that your _currently effective_ stats will work.
+The macros provided will work as long as your craftsmanship, control, and CP stats meet or exceed that listed for each recipe. The macro provided won't necessarily use all of the CP available, but it is the CP value around which the macro was written.
 :::
 
 :::info
-This page is separated into sections based on the order in which you unlock each tier of collectables.
+This page is separated into sections based on the gear set used. Levels 50-58 are a kind of introductory phase where things change every couple of levels. After that, gear sets only change at levels 60, 70, 80, and 90.
 :::
 
 <hr />
