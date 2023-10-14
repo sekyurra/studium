@@ -108,7 +108,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-|      336      |   355   | 294 |
+|      357      |   367   | 294 |
 
 </div>
 </div>

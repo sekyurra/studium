@@ -25,8 +25,8 @@ You will almost certainly earn more scrips than you can spend; consider spending
 
 |     Stat      | Amount |
 | :-----------: | -----: |
-| Craftsmanship |    336 |
-|    Control    |    355 |
+| Craftsmanship |    357 |
+|    Control    |    367 |
 |      CP       |    294 |
 
 </div>
