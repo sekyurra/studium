@@ -30,7 +30,7 @@ This page is separated into sections based on the gear set used. Levels 50-58 ar
 ## Levels 50-56
 
 :::info
-Each collectable turned in for this tier will reward 54 White Crafters' Scrips, except for level 56 and 58. The gear at these levels makes it impossible to reach tier 3 with macros.
+Each collectable turned in for this tier will reward 54 White Crafters' Scrips, except for levels 56 and 58. The gear at these levels makes it impossible to reach tier 3 with macros.
 :::
 
 <hr />
