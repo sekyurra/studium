@@ -30,7 +30,7 @@ This page is separated into sections based on the gear set used. Levels 50-58 ar
 ## Levels 50-56
 
 :::info
-Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
+Each collectable turned in for this tier will reward 54 White Crafters' Scrips, except for level 56 and 58. The gear at these levels makes it impossible to reach tier 3 with macros.
 :::
 
 <hr />
@@ -228,6 +228,10 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 | :-----------: | :-----: | :-: |
 |      448      |   409   | 294 |
 
+|        Reward         | Amount |
+| :-------------------: | :----: |
+| White Crafters' Scrip |   49   |
+
 </div>
 </div>
 
@@ -297,16 +301,17 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 #### Macro
 
 ```
-/ac "Waste Not" <wait.2>
+/ac "Waste Not II" <wait.2>
 /ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
 /ac "Innovation" <wait.2>
+/ac "Standard Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Veneration" <wait.2>
 /ac "Byregot's Blessing" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
@@ -319,7 +324,11 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Collectability | Tier |
 | :------------: | :--: |
-|    256/256     |  3   |
+|    231/256     |  2   |
+
+|        Reward         | Amount |
+| :-------------------: | :----: |
+| White Crafters' Scrip |   49   |
 
 </div>
 </div>
