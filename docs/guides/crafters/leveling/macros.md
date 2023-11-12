@@ -274,6 +274,10 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips, 
 
 ## Level 58
 
+:::info
+Level 58 is weird because it needs a crafting gearset that is only used for this level. You should already have the scrips needed to get the necessary pieces.
+:::
+
 <div class="row">
 <div class="col">
 
