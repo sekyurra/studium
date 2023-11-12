@@ -238,16 +238,17 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 ```
 /ac "Innovation" <wait.2>
+/ac "Waste Not II" <wait.2>
+/ac "Basic Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
-/ac "Basic Touch" <wait.3>
-/ac "Standard Touch" <wait.3>
-/ac "Waste Not" <wait.2>
 /ac "Innovation" <wait.2>
+/ac "Basic Touch" <wait.3>
 /ac "Basic Touch" <wait.3>
 /ac "Standard Touch" <wait.3>
 /ac "Byregot's Blessing" <wait.3>
 /ac "Veneration" <wait.2>
+/ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
 /ac "Basic Synthesis" <wait.3>
@@ -260,7 +261,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Collectability | Tier |
 | :------------: | :--: |
-|    242/242     |  3   |
+|    215/242     |  2   |
 
 </div>
 </div>
@@ -697,7 +698,6 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 | :------------: | :--: |
 |    360/360     |  3   |
 
-
 |        Reward         | Amount |
 | :-------------------: | :----: |
 | White Crafters' Scrip |   54   |
@@ -972,7 +972,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-| 2606 | 2457 | 507 |
+|     2606      |  2457   | 507 |
 
 </div>
 </div>
@@ -1030,7 +1030,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-| 2606 | 2457 | 507 |
+|     2606      |  2457   | 507 |
 
 </div>
 </div>
@@ -1091,7 +1091,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-| 2606 | 2457 | 507 |
+|     2606      |  2457   | 507 |
 
 </div>
 </div>
@@ -1153,7 +1153,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-| 2606 | 2457 | 507 |
+|     2606      |  2457   | 507 |
 
 </div>
 </div>
@@ -1217,7 +1217,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-| 2606 | 2457 | 507 |
+|     2606      |  2457   | 507 |
 
 </div>
 </div>
@@ -1280,7 +1280,7 @@ Each collectable turned in for this tier will reward 54 White Crafters' Scrips.
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-| 2606 | 2457 | 507 |
+|     2606      |  2457   | 507 |
 
 </div>
 </div>
@@ -1368,7 +1368,7 @@ Do not use the HQ Precrafts macro with normal-quality precrafts. It will most li
 
 | Craftsmanship | Control | CP  |
 | :-----------: | :-----: | :-: |
-| 2606 | 2457 | 507 |
+|     2606      |  2457   | 507 |
 
 </div>
 </div>
