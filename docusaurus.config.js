@@ -120,7 +120,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} Justin Coffman.<br />Final Fantasy XIV and any associated intellectual property is the property of SQUARE ENIX CO., LTD.<br />Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Shion Tsuji.<br />Final Fantasy XIV and any associated intellectual property is the property of SQUARE ENIX CO., LTD.<br />Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
